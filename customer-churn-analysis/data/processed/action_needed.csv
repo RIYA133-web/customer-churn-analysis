@@ -1,0 +1,3088 @@
+churn_prob,risk_segment,recommended_action
+0.9703165814854751,High Risk,Assign dedicated support agent
+0.9684003355853088,High Risk,Assign dedicated support agent
+0.9660287437965583,High Risk,Assign dedicated support agent
+0.9632384123311971,High Risk,Assign dedicated support agent
+0.9631981613236181,High Risk,Assign dedicated support agent
+0.9630633144269978,High Risk,Assign dedicated support agent
+0.9622489996781998,High Risk,Assign dedicated support agent
+0.9620881135412559,High Risk,Assign dedicated support agent
+0.9601183851626847,High Risk,Assign dedicated support agent
+0.959149893190488,High Risk,Assign dedicated support agent
+0.9591137900599971,High Risk,Assign dedicated support agent
+0.95635056367766,High Risk,Assign dedicated support agent
+0.9561647307544852,High Risk,Assign dedicated support agent
+0.9558460869357256,High Risk,Assign dedicated support agent
+0.9553162786831847,High Risk,Assign dedicated support agent
+0.9552550371135211,High Risk,Assign dedicated support agent
+0.9551502352851904,High Risk,Assign dedicated support agent
+0.9538457688883247,High Risk,Assign dedicated support agent
+0.9535942454319946,High Risk,Assign dedicated support agent
+0.9534798290314244,High Risk,Assign dedicated support agent
+0.9531719340577942,High Risk,Assign dedicated support agent
+0.9526004644077694,High Risk,Assign dedicated support agent
+0.9521606648507346,High Risk,Send onboarding assistance email
+0.9521606648507346,High Risk,Send onboarding assistance email
+0.9519151688448546,High Risk,Send onboarding assistance email
+0.9518906315120002,High Risk,Send onboarding assistance email
+0.9518906315120002,High Risk,Send onboarding assistance email
+0.9518906315120002,High Risk,Send onboarding assistance email
+0.9518481225802147,High Risk,Assign dedicated support agent
+0.951792199103896,High Risk,Assign dedicated support agent
+0.9511184378406345,High Risk,Send onboarding assistance email
+0.9511184378406345,High Risk,Send onboarding assistance email
+0.9501132618880419,High Risk,Send onboarding assistance email
+0.9501132618880419,High Risk,Send onboarding assistance email
+0.9501132618880419,High Risk,Send onboarding assistance email
+0.9500234846536797,High Risk,Send onboarding assistance email
+0.9497889147737427,High Risk,Assign dedicated support agent
+0.9496765256853448,High Risk,Assign dedicated support agent
+0.9493417818626704,High Risk,Assign dedicated support agent
+0.9493120717925957,High Risk,Send onboarding assistance email
+0.9479862835969506,High Risk,Assign dedicated support agent
+0.9477096769515703,High Risk,Send onboarding assistance email
+0.9477096769515703,High Risk,Send onboarding assistance email
+0.9475918093275816,High Risk,Assign dedicated support agent
+0.9469495886454559,High Risk,Assign dedicated support agent
+0.9465267190078184,High Risk,Assign dedicated support agent
+0.9465047272063264,High Risk,Send onboarding assistance email
+0.9455640208623178,High Risk,Send onboarding assistance email
+0.945530886598002,High Risk,Assign dedicated support agent
+0.9454449645940164,High Risk,Assign dedicated support agent
+0.9454449645940164,High Risk,Assign dedicated support agent
+0.9451712823376569,High Risk,Assign dedicated support agent
+0.9450739848444266,High Risk,Assign dedicated support agent
+0.9450439099470954,High Risk,Send onboarding assistance email
+0.9450439099470954,High Risk,Send onboarding assistance email
+0.9447652701568662,High Risk,Assign dedicated support agent
+0.9447633792411171,High Risk,Send onboarding assistance email
+0.9441776806042165,High Risk,Assign dedicated support agent
+0.9441603927401571,High Risk,Send onboarding assistance email
+0.9440791190577713,High Risk,Assign dedicated support agent
+0.944031731760424,High Risk,Assign dedicated support agent
+0.9437524973253487,High Risk,Send onboarding assistance email
+0.9436459331365996,High Risk,Assign dedicated support agent
+0.943396759333021,High Risk,Assign dedicated support agent
+0.9433541303342011,High Risk,Assign dedicated support agent
+0.943195467193607,High Risk,Assign dedicated support agent
+0.9429873921539977,High Risk,Assign dedicated support agent
+0.9429631081949286,High Risk,Send onboarding assistance email
+0.9429631081949286,High Risk,Send onboarding assistance email
+0.9426666503948807,High Risk,Assign dedicated support agent
+0.9426614253472587,High Risk,Assign dedicated support agent
+0.9426614253472587,High Risk,Assign dedicated support agent
+0.9422038255829377,High Risk,Assign dedicated support agent
+0.9416835938004675,High Risk,Assign dedicated support agent
+0.9411349067649352,High Risk,Assign dedicated support agent
+0.9411335794131436,High Risk,Assign dedicated support agent
+0.9410463410173067,High Risk,Assign dedicated support agent
+0.9410239930293458,High Risk,Assign dedicated support agent
+0.9408643181087685,High Risk,Assign dedicated support agent
+0.9408579744803724,High Risk,Assign dedicated support agent
+0.9408579744803724,High Risk,Assign dedicated support agent
+0.9404474436575544,High Risk,Assign dedicated support agent
+0.9404055300180575,High Risk,Assign dedicated support agent
+0.9403369968107772,High Risk,Assign dedicated support agent
+0.9402912873619664,High Risk,Assign dedicated support agent
+0.9402176756010557,High Risk,Assign dedicated support agent
+0.9398157213963698,High Risk,Assign dedicated support agent
+0.939759728006041,High Risk,Assign dedicated support agent
+0.9395836952790008,High Risk,Assign dedicated support agent
+0.9393431344432027,High Risk,Assign dedicated support agent
+0.9385793400306202,High Risk,Assign dedicated support agent
+0.9384306796061543,High Risk,Assign dedicated support agent
+0.937923980218827,High Risk,Assign dedicated support agent
+0.9377881674947427,High Risk,Assign dedicated support agent
+0.937747333440808,High Risk,Assign dedicated support agent
+0.9375878679756291,High Risk,Assign dedicated support agent
+0.937414103127788,High Risk,Assign dedicated support agent
+0.937350644200813,High Risk,Assign dedicated support agent
+0.9372368198382658,High Risk,Assign dedicated support agent
+0.9371331823531185,High Risk,Assign dedicated support agent
+0.937130161377624,High Risk,Assign dedicated support agent
+0.9370634394415069,High Risk,Assign dedicated support agent
+0.9370361090258528,High Risk,Assign dedicated support agent
+0.9370361090258528,High Risk,Assign dedicated support agent
+0.9370094988092336,High Risk,Assign dedicated support agent
+0.9360920311491009,High Risk,Assign dedicated support agent
+0.9359453229606055,High Risk,Send onboarding assistance email
+0.9359234484599048,High Risk,Assign dedicated support agent
+0.9358849138725513,High Risk,Send onboarding assistance email
+0.9358659589094654,High Risk,Assign dedicated support agent
+0.935673743303431,High Risk,Assign dedicated support agent
+0.9356433977616616,High Risk,Assign dedicated support agent
+0.9354818945171537,High Risk,Assign dedicated support agent
+0.935434809680075,High Risk,Assign dedicated support agent
+0.9352093665784941,High Risk,Assign dedicated support agent
+0.9342988195625324,High Risk,Assign dedicated support agent
+0.9340753003735387,High Risk,Assign dedicated support agent
+0.9340516441441561,High Risk,Assign dedicated support agent
+0.934019879921107,High Risk,Send onboarding assistance email
+0.9339611266605768,High Risk,Assign dedicated support agent
+0.9338836522492204,High Risk,Assign dedicated support agent
+0.9337560188356616,High Risk,Assign dedicated support agent
+0.9330961192726752,High Risk,Assign dedicated support agent
+0.9328773706205378,High Risk,Assign dedicated support agent
+0.932644684951311,High Risk,Assign dedicated support agent
+0.9325747349829228,High Risk,Assign dedicated support agent
+0.9325740606538753,High Risk,Assign dedicated support agent
+0.9325142804753233,High Risk,Assign dedicated support agent
+0.931156178490717,High Risk,Assign dedicated support agent
+0.9310726613854505,High Risk,Assign dedicated support agent
+0.9306225894419176,High Risk,Assign dedicated support agent
+0.9305890517978439,High Risk,Assign dedicated support agent
+0.93033800796342,High Risk,Assign dedicated support agent
+0.9300995744538806,High Risk,Assign dedicated support agent
+0.9299886558691566,High Risk,Assign dedicated support agent
+0.9299001034200964,High Risk,Assign dedicated support agent
+0.9298772795163626,High Risk,Send onboarding assistance email
+0.929456922689876,High Risk,Assign dedicated support agent
+0.9291950204691769,High Risk,Assign dedicated support agent
+0.9289077428093144,High Risk,Assign dedicated support agent
+0.9287259180918199,High Risk,Assign dedicated support agent
+0.9282986108626653,High Risk,Assign dedicated support agent
+0.9281287765762969,High Risk,Assign dedicated support agent
+0.9279806831006968,High Risk,Assign dedicated support agent
+0.9278742629642828,High Risk,Assign dedicated support agent
+0.927654180367653,High Risk,Assign dedicated support agent
+0.9275256538007766,High Risk,Assign dedicated support agent
+0.9272630773775888,High Risk,Assign dedicated support agent
+0.9267680083681674,High Risk,Send onboarding assistance email
+0.9267672742152654,High Risk,Assign dedicated support agent
+0.9266546350393754,High Risk,Assign dedicated support agent
+0.9266037849052354,High Risk,Assign dedicated support agent
+0.9265165079651131,High Risk,Assign dedicated support agent
+0.9262350226773002,High Risk,Assign dedicated support agent
+0.9259969897257432,High Risk,Send onboarding assistance email
+0.9259133396114588,High Risk,Assign dedicated support agent
+0.9253851682199067,High Risk,Send onboarding assistance email
+0.9251893377796284,High Risk,Assign dedicated support agent
+0.9247796438893555,High Risk,Assign dedicated support agent
+0.9247098494515599,High Risk,Assign dedicated support agent
+0.9240810876287651,High Risk,Assign dedicated support agent
+0.9237614040183812,High Risk,Assign dedicated support agent
+0.9234245977731287,High Risk,Assign dedicated support agent
+0.92300116173062,High Risk,Send onboarding assistance email
+0.9230010014444258,High Risk,Assign dedicated support agent
+0.9228157572265548,High Risk,Assign dedicated support agent
+0.9225572685591708,High Risk,Assign dedicated support agent
+0.9224282751181226,High Risk,Assign dedicated support agent
+0.9223774207363248,High Risk,Assign dedicated support agent
+0.9222014968901759,High Risk,Send onboarding assistance email
+0.9218909523348233,High Risk,Assign dedicated support agent
+0.9213831010335336,High Risk,Assign dedicated support agent
+0.9213684166960853,High Risk,Assign dedicated support agent
+0.921260308931177,High Risk,Send onboarding assistance email
+0.9211874847802032,High Risk,Send onboarding assistance email
+0.920858421838048,High Risk,Assign dedicated support agent
+0.9208470576803667,High Risk,Assign dedicated support agent
+0.9206482946197994,High Risk,Send onboarding assistance email
+0.9201714960399288,High Risk,Assign dedicated support agent
+0.9201452393448296,High Risk,Assign dedicated support agent
+0.920050704412882,High Risk,Assign dedicated support agent
+0.919885909916305,High Risk,Assign dedicated support agent
+0.9195855451921332,High Risk,Assign dedicated support agent
+0.9195163623276713,High Risk,Assign dedicated support agent
+0.9193618305744282,High Risk,Send onboarding assistance email
+0.9189597214259834,High Risk,Send onboarding assistance email
+0.9188088228886458,High Risk,Assign dedicated support agent
+0.9187253860945711,High Risk,Assign dedicated support agent
+0.9186624035688291,High Risk,Assign dedicated support agent
+0.9183520217277258,High Risk,Assign dedicated support agent
+0.9167069010021924,High Risk,Assign dedicated support agent
+0.9166213469236668,High Risk,Assign dedicated support agent
+0.9162195110813126,High Risk,Assign dedicated support agent
+0.9161344375016647,High Risk,Assign dedicated support agent
+0.9160881515879733,High Risk,Assign dedicated support agent
+0.9160458233978015,High Risk,Assign dedicated support agent
+0.9160347429811964,High Risk,Send onboarding assistance email
+0.9156816685321543,High Risk,Assign dedicated support agent
+0.9153242244895456,High Risk,Assign dedicated support agent
+0.9152474779144691,High Risk,Send onboarding assistance email
+0.9152032244967901,High Risk,Send onboarding assistance email
+0.9151163132676307,High Risk,Send onboarding assistance email
+0.9150444399980343,High Risk,Assign dedicated support agent
+0.9149783654286016,High Risk,Assign dedicated support agent
+0.9149530788233815,High Risk,Assign dedicated support agent
+0.9147295793112717,High Risk,Assign dedicated support agent
+0.9139465384218526,High Risk,Assign dedicated support agent
+0.9138217316626778,High Risk,Assign dedicated support agent
+0.9137582718883017,High Risk,Send onboarding assistance email
+0.9132062062685633,High Risk,Assign dedicated support agent
+0.913020472138087,High Risk,Assign dedicated support agent
+0.9128666434327806,High Risk,Assign dedicated support agent
+0.9124530559086665,High Risk,Assign dedicated support agent
+0.9123938962567454,High Risk,Assign dedicated support agent
+0.9120565463511957,High Risk,Assign dedicated support agent
+0.9117010094211198,High Risk,Assign dedicated support agent
+0.9115443802305145,High Risk,Send onboarding assistance email
+0.9115088509735572,High Risk,Send onboarding assistance email
+0.9113708536750754,High Risk,Assign dedicated support agent
+0.9112563491914684,High Risk,Assign dedicated support agent
+0.9109748050443942,High Risk,Assign dedicated support agent
+0.9107470034220875,High Risk,Assign dedicated support agent
+0.9106947463588384,High Risk,Assign dedicated support agent
+0.9103853160455038,High Risk,Assign dedicated support agent
+0.910008047811986,High Risk,Assign dedicated support agent
+0.9096848375906719,High Risk,Assign dedicated support agent
+0.9096715095407248,High Risk,Assign dedicated support agent
+0.909574731365597,High Risk,Assign dedicated support agent
+0.9084315671613225,High Risk,Assign dedicated support agent
+0.9083249743023135,High Risk,Assign dedicated support agent
+0.9082307194513052,High Risk,Assign dedicated support agent
+0.9080209395886268,High Risk,Assign dedicated support agent
+0.9079499541268312,High Risk,Assign dedicated support agent
+0.9079180169173421,High Risk,Assign dedicated support agent
+0.9074526256755324,High Risk,Assign dedicated support agent
+0.907445005553022,High Risk,Assign dedicated support agent
+0.9072095033779398,High Risk,Assign dedicated support agent
+0.9064755095283132,High Risk,Assign dedicated support agent
+0.9062632098506108,High Risk,Assign dedicated support agent
+0.9060897732032481,High Risk,Assign dedicated support agent
+0.9060727029462747,High Risk,Send onboarding assistance email
+0.9060268665033118,High Risk,Assign dedicated support agent
+0.9059461494767668,High Risk,Send onboarding assistance email
+0.9059461494767668,High Risk,Send onboarding assistance email
+0.905873830559297,High Risk,Assign dedicated support agent
+0.9055267454271521,High Risk,Assign dedicated support agent
+0.9052575563511803,High Risk,Assign dedicated support agent
+0.9052194315695746,High Risk,Assign dedicated support agent
+0.9048217935216567,High Risk,Assign dedicated support agent
+0.9046779342368572,High Risk,Assign dedicated support agent
+0.904386923224315,High Risk,Assign dedicated support agent
+0.9041730839384818,High Risk,Assign dedicated support agent
+0.9041730839384818,High Risk,Assign dedicated support agent
+0.90401128569885,High Risk,Assign dedicated support agent
+0.9031077520363087,High Risk,Assign dedicated support agent
+0.9030719263627551,High Risk,Assign dedicated support agent
+0.9029719055581289,High Risk,Assign dedicated support agent
+0.9029464684628266,High Risk,Assign dedicated support agent
+0.9028216699645359,High Risk,Assign dedicated support agent
+0.9025162803245087,High Risk,Assign dedicated support agent
+0.902459485530446,High Risk,Send onboarding assistance email
+0.9023563357652042,High Risk,Assign dedicated support agent
+0.9023236002427122,High Risk,Assign dedicated support agent
+0.9019876469399217,High Risk,Send onboarding assistance email
+0.9019876469399217,High Risk,Send onboarding assistance email
+0.9019871981944767,High Risk,Assign dedicated support agent
+0.9017700748415837,High Risk,Assign dedicated support agent
+0.9016641711747125,High Risk,Assign dedicated support agent
+0.9016311142356984,High Risk,Assign dedicated support agent
+0.9014775836110163,High Risk,Assign dedicated support agent
+0.9014747933515871,High Risk,Assign dedicated support agent
+0.9005335866652259,High Risk,Assign dedicated support agent
+0.900267220044165,High Risk,Assign dedicated support agent
+0.9001607520984828,High Risk,Assign dedicated support agent
+0.9001139312891321,High Risk,Assign dedicated support agent
+0.8999790272551127,High Risk,Send onboarding assistance email
+0.8999420057081299,High Risk,Assign dedicated support agent
+0.8998564170802977,High Risk,Assign dedicated support agent
+0.8996739758881658,High Risk,Assign dedicated support agent
+0.8995860532760949,High Risk,Assign dedicated support agent
+0.8990288453847357,High Risk,Assign dedicated support agent
+0.898894684282223,High Risk,Assign dedicated support agent
+0.8988938886227728,High Risk,Assign dedicated support agent
+0.8988507810539873,High Risk,Assign dedicated support agent
+0.8988349715609912,High Risk,Assign dedicated support agent
+0.8988216613429608,High Risk,Assign dedicated support agent
+0.8987754603986633,High Risk,Assign dedicated support agent
+0.898744842326289,High Risk,Assign dedicated support agent
+0.8986906257182612,High Risk,Send onboarding assistance email
+0.8985366544481426,High Risk,Assign dedicated support agent
+0.8985108225850006,High Risk,Assign dedicated support agent
+0.8981586761572207,High Risk,Assign dedicated support agent
+0.8981015813421118,High Risk,Assign dedicated support agent
+0.8980473475880919,High Risk,Assign dedicated support agent
+0.8976577427031788,High Risk,Assign dedicated support agent
+0.8973398759249346,High Risk,Assign dedicated support agent
+0.8971459260555927,High Risk,Assign dedicated support agent
+0.8971075652472906,High Risk,Assign dedicated support agent
+0.8965457914446587,High Risk,Assign dedicated support agent
+0.8960733054789297,High Risk,Assign dedicated support agent
+0.8956612272869093,High Risk,Assign dedicated support agent
+0.8956404785338151,High Risk,Assign dedicated support agent
+0.8948869044805082,High Risk,Assign dedicated support agent
+0.8948774574734751,High Risk,Assign dedicated support agent
+0.8946521851087712,High Risk,Assign dedicated support agent
+0.8945933567978106,High Risk,Assign dedicated support agent
+0.8945387389356939,High Risk,Assign dedicated support agent
+0.8937427153615536,High Risk,Assign dedicated support agent
+0.8937427153615536,High Risk,Assign dedicated support agent
+0.8937038562844838,High Risk,Assign dedicated support agent
+0.8936438103040936,High Risk,Assign dedicated support agent
+0.8933374181214992,High Risk,Assign dedicated support agent
+0.8929897195860442,High Risk,Assign dedicated support agent
+0.8928124402682688,High Risk,Send onboarding assistance email
+0.892739426262699,High Risk,Assign dedicated support agent
+0.8925853333627844,High Risk,Assign dedicated support agent
+0.8925425446483796,High Risk,Assign dedicated support agent
+0.8925366988521546,High Risk,Send onboarding assistance email
+0.8923069427657143,High Risk,Assign dedicated support agent
+0.8915585368679716,High Risk,Assign dedicated support agent
+0.8909814160923858,High Risk,Send onboarding assistance email
+0.8905352205791176,High Risk,Assign dedicated support agent
+0.890251676511746,High Risk,Assign dedicated support agent
+0.8901785369252357,High Risk,Assign dedicated support agent
+0.8901414944181731,High Risk,Assign dedicated support agent
+0.8898251914305623,High Risk,Assign dedicated support agent
+0.8894812376010031,High Risk,Assign dedicated support agent
+0.8890571889859521,High Risk,Assign dedicated support agent
+0.889037661979668,High Risk,Assign dedicated support agent
+0.8889178161044348,High Risk,Assign dedicated support agent
+0.8888592976912539,High Risk,Assign dedicated support agent
+0.8887086160211654,High Risk,Assign dedicated support agent
+0.888021661660803,High Risk,Send onboarding assistance email
+0.88758281637231,High Risk,Assign dedicated support agent
+0.8874859312445444,High Risk,Send onboarding assistance email
+0.8871652981948928,High Risk,Assign dedicated support agent
+0.8870347793583616,High Risk,Assign dedicated support agent
+0.8863800635159346,High Risk,Assign dedicated support agent
+0.8863007496648221,High Risk,Assign dedicated support agent
+0.8862667218395022,High Risk,Assign dedicated support agent
+0.8858327358862103,High Risk,Assign dedicated support agent
+0.8855240877198196,High Risk,Send onboarding assistance email
+0.8855218770955698,High Risk,Assign dedicated support agent
+0.8854394196081208,High Risk,Assign dedicated support agent
+0.8854046042188822,High Risk,Send onboarding assistance email
+0.8849388806950662,High Risk,Assign dedicated support agent
+0.8845818037425043,High Risk,Assign dedicated support agent
+0.8845271902636749,High Risk,Assign dedicated support agent
+0.8845014575696523,High Risk,Send onboarding assistance email
+0.8842761814120729,High Risk,Assign dedicated support agent
+0.8841148747779651,High Risk,Assign dedicated support agent
+0.8840857119611593,High Risk,Send onboarding assistance email
+0.8837390519710047,High Risk,Assign dedicated support agent
+0.8836620085632875,High Risk,Assign dedicated support agent
+0.8831349800318606,High Risk,Assign dedicated support agent
+0.88302100112694,High Risk,Assign dedicated support agent
+0.8826144524236181,High Risk,Assign dedicated support agent
+0.8825173787679319,High Risk,Assign dedicated support agent
+0.8824593248853574,High Risk,Assign dedicated support agent
+0.8824550742268058,High Risk,Assign dedicated support agent
+0.882241345705625,High Risk,Assign dedicated support agent
+0.8822184307875677,High Risk,Send onboarding assistance email
+0.8821618226366685,High Risk,Assign dedicated support agent
+0.882038678333259,High Risk,Assign dedicated support agent
+0.8819307716187039,High Risk,Assign dedicated support agent
+0.8815438538630528,High Risk,Assign dedicated support agent
+0.8812459537356925,High Risk,Assign dedicated support agent
+0.8805615606307221,High Risk,Assign dedicated support agent
+0.8803503420972892,High Risk,Assign dedicated support agent
+0.8802810796112649,High Risk,Assign dedicated support agent
+0.8802169452469218,High Risk,Assign dedicated support agent
+0.879816440773736,High Risk,Assign dedicated support agent
+0.8796077454199324,High Risk,Assign dedicated support agent
+0.8793735744585826,High Risk,Assign dedicated support agent
+0.8785725231645347,High Risk,Send onboarding assistance email
+0.8785725231645347,High Risk,Send onboarding assistance email
+0.877906434572484,High Risk,Assign dedicated support agent
+0.8778566639618827,High Risk,Assign dedicated support agent
+0.8778235226271518,High Risk,Assign dedicated support agent
+0.877784490859751,High Risk,Assign dedicated support agent
+0.8774710006877656,High Risk,Assign dedicated support agent
+0.8774706094837765,High Risk,Assign dedicated support agent
+0.8773887690030355,High Risk,Assign dedicated support agent
+0.8773786660077841,High Risk,Assign dedicated support agent
+0.8773343022109121,High Risk,Assign dedicated support agent
+0.87724762132916,High Risk,Assign dedicated support agent
+0.877065829141009,High Risk,Assign dedicated support agent
+0.8762852343878812,High Risk,Assign dedicated support agent
+0.8762385227543962,High Risk,Assign dedicated support agent
+0.8761021549314857,High Risk,Assign dedicated support agent
+0.8758450592733169,High Risk,Send onboarding assistance email
+0.8757769274060456,High Risk,Assign dedicated support agent
+0.8756018606850161,High Risk,Assign dedicated support agent
+0.8753355944653771,High Risk,Assign dedicated support agent
+0.8750231297054101,High Risk,Assign dedicated support agent
+0.874916149921004,High Risk,Assign dedicated support agent
+0.8747113097769988,High Risk,Assign dedicated support agent
+0.8745689378452824,High Risk,Assign dedicated support agent
+0.8742871729643888,High Risk,Assign dedicated support agent
+0.8742618797734685,High Risk,Send onboarding assistance email
+0.8741555497014157,High Risk,Assign dedicated support agent
+0.8740249868986509,High Risk,Assign dedicated support agent
+0.8735187372474005,High Risk,Assign dedicated support agent
+0.8734975558232059,High Risk,Assign dedicated support agent
+0.8732009427250095,High Risk,Assign dedicated support agent
+0.8730151481899852,High Risk,Assign dedicated support agent
+0.8728304796164988,High Risk,Assign dedicated support agent
+0.8726371975954322,High Risk,Assign dedicated support agent
+0.8724139228886549,High Risk,Assign dedicated support agent
+0.8723128418599022,High Risk,Assign dedicated support agent
+0.8723091738968705,High Risk,Assign dedicated support agent
+0.872308309146039,High Risk,Assign dedicated support agent
+0.8722921483253936,High Risk,Assign dedicated support agent
+0.872110643231555,High Risk,Assign dedicated support agent
+0.8718705767215574,High Risk,Assign dedicated support agent
+0.8717724470965064,High Risk,Assign dedicated support agent
+0.8715986160861833,High Risk,Assign dedicated support agent
+0.8715100749050393,High Risk,Assign dedicated support agent
+0.8714658860559115,High Risk,Assign dedicated support agent
+0.8712590964448529,High Risk,Assign dedicated support agent
+0.8712048306679355,High Risk,Assign dedicated support agent
+0.8709732460286077,High Risk,Assign dedicated support agent
+0.8706163015426212,High Risk,Assign dedicated support agent
+0.8705778161397616,High Risk,Assign dedicated support agent
+0.8705407422134654,High Risk,Assign dedicated support agent
+0.8697572668120077,High Risk,Assign dedicated support agent
+0.8690124669467855,High Risk,Assign dedicated support agent
+0.8688324517172208,High Risk,Assign dedicated support agent
+0.8687340569439922,High Risk,Assign dedicated support agent
+0.8686490521137736,High Risk,Assign dedicated support agent
+0.8682830537840788,High Risk,Assign dedicated support agent
+0.8680589878715257,High Risk,Assign dedicated support agent
+0.8677105046536505,High Risk,Assign dedicated support agent
+0.8677052369881025,High Risk,Assign dedicated support agent
+0.8673732310080517,High Risk,Assign dedicated support agent
+0.8668130262201346,High Risk,Assign dedicated support agent
+0.8666135151047907,High Risk,Assign dedicated support agent
+0.8665846474294631,High Risk,Assign dedicated support agent
+0.8660931267657034,High Risk,Assign dedicated support agent
+0.8655220831393199,High Risk,Assign dedicated support agent
+0.8652821160470991,High Risk,Assign dedicated support agent
+0.8651502814643713,High Risk,Assign dedicated support agent
+0.8650653825849933,High Risk,Assign dedicated support agent
+0.8650124324397361,High Risk,Assign dedicated support agent
+0.8648700667101764,High Risk,Assign dedicated support agent
+0.8646413786412497,High Risk,Assign dedicated support agent
+0.8645773650715192,High Risk,Assign dedicated support agent
+0.8644330510261489,High Risk,Assign dedicated support agent
+0.8643239883458584,High Risk,Assign dedicated support agent
+0.8642052696426922,High Risk,Assign dedicated support agent
+0.8641889488363558,High Risk,Assign dedicated support agent
+0.8638415576367958,High Risk,Assign dedicated support agent
+0.8637869265901987,High Risk,Assign dedicated support agent
+0.8635359484294216,High Risk,Assign dedicated support agent
+0.8634003039091946,High Risk,Assign dedicated support agent
+0.8629123908104862,High Risk,Assign dedicated support agent
+0.8627926435255873,High Risk,Assign dedicated support agent
+0.8625922933319847,High Risk,Assign dedicated support agent
+0.8621984284731706,High Risk,Send onboarding assistance email
+0.8621003071345996,High Risk,Assign dedicated support agent
+0.8620980112523413,High Risk,Assign dedicated support agent
+0.8618714613497496,High Risk,Assign dedicated support agent
+0.8613580230273477,High Risk,Assign dedicated support agent
+0.8609921835067094,High Risk,Assign dedicated support agent
+0.8609469952431098,High Risk,Send onboarding assistance email
+0.8607876060854387,High Risk,Assign dedicated support agent
+0.8607273521586943,High Risk,Assign dedicated support agent
+0.8601742120202577,High Risk,Assign dedicated support agent
+0.8599002335120257,High Risk,Assign dedicated support agent
+0.8598512907463232,High Risk,Assign dedicated support agent
+0.8594861591947632,High Risk,Assign dedicated support agent
+0.8594196852811581,High Risk,Assign dedicated support agent
+0.8585946280492359,High Risk,Assign dedicated support agent
+0.8579424134301984,High Risk,Assign dedicated support agent
+0.8575730267303144,High Risk,Send onboarding assistance email
+0.8574913536546811,High Risk,Assign dedicated support agent
+0.8569022680653652,High Risk,Assign dedicated support agent
+0.8564995971997476,High Risk,Assign dedicated support agent
+0.8562596665820648,High Risk,Assign dedicated support agent
+0.8560768207470403,High Risk,Assign dedicated support agent
+0.8560137927776422,High Risk,Assign dedicated support agent
+0.855648010936282,High Risk,Send onboarding assistance email
+0.8555173409549158,High Risk,Assign dedicated support agent
+0.8554560870210216,High Risk,Assign dedicated support agent
+0.855272526054142,High Risk,Assign dedicated support agent
+0.8550119189186716,High Risk,Assign dedicated support agent
+0.854881645623993,High Risk,Send onboarding assistance email
+0.8548114016531162,High Risk,Assign dedicated support agent
+0.8544750047134992,High Risk,Assign dedicated support agent
+0.8539197100447256,High Risk,Assign dedicated support agent
+0.8536806305561658,High Risk,Assign dedicated support agent
+0.8536558034851699,High Risk,Assign dedicated support agent
+0.8534016936876095,High Risk,Assign dedicated support agent
+0.853399988112004,High Risk,Assign dedicated support agent
+0.8528173179376926,High Risk,Assign dedicated support agent
+0.8527067787257514,High Risk,Assign dedicated support agent
+0.8522417142963816,High Risk,Assign dedicated support agent
+0.852059961282406,High Risk,Assign dedicated support agent
+0.8519933381698092,High Risk,Assign dedicated support agent
+0.8512859579047017,High Risk,Assign dedicated support agent
+0.8509749248213996,High Risk,Assign dedicated support agent
+0.8509309134967851,High Risk,Send onboarding assistance email
+0.8507479584776841,High Risk,Assign dedicated support agent
+0.8504466614704534,High Risk,Assign dedicated support agent
+0.8502002729116591,High Risk,Assign dedicated support agent
+0.8500399850406637,High Risk,Assign dedicated support agent
+0.8499213473497269,High Risk,Assign dedicated support agent
+0.8497429856636386,High Risk,Assign dedicated support agent
+0.8491344820230126,High Risk,Send onboarding assistance email
+0.8489287325527003,High Risk,Assign dedicated support agent
+0.8489183050715076,High Risk,Assign dedicated support agent
+0.8487433580789017,High Risk,Assign dedicated support agent
+0.8485478025671276,High Risk,Send onboarding assistance email
+0.8485478025671276,High Risk,Send onboarding assistance email
+0.8483119485472881,High Risk,Assign dedicated support agent
+0.848254251922641,High Risk,Assign dedicated support agent
+0.8482231919041697,High Risk,Assign dedicated support agent
+0.8474547946291946,High Risk,Assign dedicated support agent
+0.84729674096835,High Risk,Assign dedicated support agent
+0.8472093013373118,High Risk,Send onboarding assistance email
+0.8468037173890237,High Risk,Assign dedicated support agent
+0.8458832950793866,High Risk,Send onboarding assistance email
+0.8458044636072826,High Risk,Assign dedicated support agent
+0.8456274987669126,High Risk,Assign dedicated support agent
+0.8455112571220015,High Risk,Assign dedicated support agent
+0.8453030901325647,High Risk,Assign dedicated support agent
+0.8448425657235354,High Risk,Send onboarding assistance email
+0.8446707097723645,High Risk,Assign dedicated support agent
+0.8444526291505643,High Risk,Assign dedicated support agent
+0.8442456899966292,High Risk,Assign dedicated support agent
+0.8441032170103417,High Risk,Assign dedicated support agent
+0.8438472035283473,High Risk,Assign dedicated support agent
+0.8434392554044048,High Risk,Assign dedicated support agent
+0.8433493893768284,High Risk,Assign dedicated support agent
+0.8432138665080021,High Risk,Assign dedicated support agent
+0.8428558618758121,High Risk,Assign dedicated support agent
+0.8424990529362755,High Risk,Assign dedicated support agent
+0.8422154089194304,High Risk,Assign dedicated support agent
+0.8419936863939026,High Risk,Assign dedicated support agent
+0.8419713193516435,High Risk,Assign dedicated support agent
+0.8419701864424751,High Risk,Assign dedicated support agent
+0.8419539583988386,High Risk,Assign dedicated support agent
+0.8418332682358003,High Risk,Assign dedicated support agent
+0.8414923643840925,High Risk,Assign dedicated support agent
+0.8412691693866752,High Risk,Assign dedicated support agent
+0.8410699740652179,High Risk,Assign dedicated support agent
+0.8409311750384815,High Risk,Assign dedicated support agent
+0.8404605776932386,High Risk,Assign dedicated support agent
+0.8403235048783793,High Risk,Assign dedicated support agent
+0.8397320756002398,High Risk,Assign dedicated support agent
+0.839688547876367,High Risk,Assign dedicated support agent
+0.8394387911912442,High Risk,Send onboarding assistance email
+0.83939180457361,High Risk,Assign dedicated support agent
+0.8390799160274461,High Risk,Assign dedicated support agent
+0.8380028503265031,High Risk,Assign dedicated support agent
+0.8378753555560565,High Risk,Assign dedicated support agent
+0.8374461168927155,High Risk,Assign dedicated support agent
+0.8366596664470807,High Risk,Assign dedicated support agent
+0.8363194213062352,High Risk,Assign dedicated support agent
+0.8358882614080666,High Risk,Assign dedicated support agent
+0.8358335270675838,High Risk,Assign dedicated support agent
+0.8357933995705961,High Risk,Assign dedicated support agent
+0.8357235897965114,High Risk,Assign dedicated support agent
+0.8352940288126532,High Risk,Assign dedicated support agent
+0.8352865568548115,High Risk,Assign dedicated support agent
+0.8352592928617752,High Risk,Assign dedicated support agent
+0.835019099009158,High Risk,Assign dedicated support agent
+0.8347931032139971,High Risk,Send onboarding assistance email
+0.8343627142876151,High Risk,Assign dedicated support agent
+0.8342305947059317,High Risk,Assign dedicated support agent
+0.8341553573600615,High Risk,Assign dedicated support agent
+0.8335749373687034,High Risk,Assign dedicated support agent
+0.8335124766237096,High Risk,Send onboarding assistance email
+0.8328000171532011,High Risk,Send onboarding assistance email
+0.832764914007518,High Risk,Assign dedicated support agent
+0.8324591710593006,High Risk,Assign dedicated support agent
+0.8324144994969847,High Risk,Assign dedicated support agent
+0.8321625522096663,High Risk,Assign dedicated support agent
+0.8320283498194209,High Risk,Assign dedicated support agent
+0.8316849905543867,High Risk,Assign dedicated support agent
+0.8316592123821743,High Risk,Send onboarding assistance email
+0.8316064969361393,High Risk,Assign dedicated support agent
+0.8315815079328526,High Risk,Assign dedicated support agent
+0.8314558816294457,High Risk,Send onboarding assistance email
+0.830840629640831,High Risk,Assign dedicated support agent
+0.830469867538799,High Risk,Assign dedicated support agent
+0.8295645372840356,High Risk,Send onboarding assistance email
+0.8292600960886408,High Risk,Assign dedicated support agent
+0.8292173792494166,High Risk,Assign dedicated support agent
+0.828803630126949,High Risk,Send onboarding assistance email
+0.8286954744299855,High Risk,Assign dedicated support agent
+0.8286554984202439,High Risk,Send onboarding assistance email
+0.8286239007573019,High Risk,Assign dedicated support agent
+0.8285300363639131,High Risk,Assign dedicated support agent
+0.8282227482246731,High Risk,Assign dedicated support agent
+0.8279673065238772,High Risk,Assign dedicated support agent
+0.827906566217047,High Risk,Assign dedicated support agent
+0.8275130907754884,High Risk,Assign dedicated support agent
+0.827461089518978,High Risk,Assign dedicated support agent
+0.8273924568190126,High Risk,Assign dedicated support agent
+0.8273611741138049,High Risk,Assign dedicated support agent
+0.8271748671874596,High Risk,Assign dedicated support agent
+0.8271298135061859,High Risk,Assign dedicated support agent
+0.8264092321273343,High Risk,Assign dedicated support agent
+0.8261440405977117,High Risk,Assign dedicated support agent
+0.8258078248890982,High Risk,Assign dedicated support agent
+0.8257590646161198,High Risk,Assign dedicated support agent
+0.8257256350717079,High Risk,Assign dedicated support agent
+0.8252116767299894,High Risk,Assign dedicated support agent
+0.8251527903695819,High Risk,Assign dedicated support agent
+0.8248291606342703,High Risk,Send onboarding assistance email
+0.824816147795084,High Risk,Assign dedicated support agent
+0.82474872620959,High Risk,Assign dedicated support agent
+0.8247059754736764,High Risk,Assign dedicated support agent
+0.8245181365809405,High Risk,Assign dedicated support agent
+0.8244829351586819,High Risk,Assign dedicated support agent
+0.8243710743684136,High Risk,Assign dedicated support agent
+0.8243601503911013,High Risk,Send onboarding assistance email
+0.8239767649241887,High Risk,Assign dedicated support agent
+0.8239740436463364,High Risk,Send onboarding assistance email
+0.8239217490639948,High Risk,Assign dedicated support agent
+0.8235561472598303,High Risk,Assign dedicated support agent
+0.8235008835075655,High Risk,Assign dedicated support agent
+0.8234065117204524,High Risk,Send onboarding assistance email
+0.8232670795938221,High Risk,Assign dedicated support agent
+0.8230190782125492,High Risk,Send onboarding assistance email
+0.8224236898595321,High Risk,Send onboarding assistance email
+0.8224016706010512,High Risk,Assign dedicated support agent
+0.8221674928580769,High Risk,Assign dedicated support agent
+0.8221473691982001,High Risk,Assign dedicated support agent
+0.822129109171312,High Risk,Assign dedicated support agent
+0.82191330568469,High Risk,Assign dedicated support agent
+0.8214457934074126,High Risk,Assign dedicated support agent
+0.8214064520120192,High Risk,Assign dedicated support agent
+0.82117543680895,High Risk,Assign dedicated support agent
+0.8211125156781774,High Risk,Assign dedicated support agent
+0.8209164672860255,High Risk,Send onboarding assistance email
+0.8209052030455563,High Risk,Assign dedicated support agent
+0.8208921981936984,High Risk,Assign dedicated support agent
+0.8206950620787065,High Risk,Assign dedicated support agent
+0.8205721179559271,High Risk,Assign dedicated support agent
+0.8205353466048743,High Risk,Assign dedicated support agent
+0.820384671966147,High Risk,Assign dedicated support agent
+0.8202773052017343,High Risk,Send onboarding assistance email
+0.820144088097383,High Risk,Assign dedicated support agent
+0.8200491106816417,High Risk,Assign dedicated support agent
+0.8200462410252457,High Risk,Assign dedicated support agent
+0.8200308435546659,High Risk,Assign dedicated support agent
+0.8200138722020293,High Risk,Assign dedicated support agent
+0.8196774124908235,High Risk,Assign dedicated support agent
+0.8193927974329269,High Risk,Assign dedicated support agent
+0.8193516318798754,High Risk,Assign dedicated support agent
+0.8192231792919338,High Risk,Assign dedicated support agent
+0.8188196341594294,High Risk,Assign dedicated support agent
+0.8183163108201963,High Risk,Assign dedicated support agent
+0.8182537204813802,High Risk,Send onboarding assistance email
+0.8182009962153016,High Risk,Assign dedicated support agent
+0.8178710259282077,High Risk,Assign dedicated support agent
+0.8177048074563793,High Risk,Assign dedicated support agent
+0.8176386141568495,High Risk,Send onboarding assistance email
+0.817551486406149,High Risk,Assign dedicated support agent
+0.8173283948364407,High Risk,Assign dedicated support agent
+0.8172617294083111,High Risk,Send onboarding assistance email
+0.8169125399411695,High Risk,Assign dedicated support agent
+0.8168693551510848,High Risk,Send onboarding assistance email
+0.816527517367653,High Risk,Assign dedicated support agent
+0.8157609880661124,High Risk,Send onboarding assistance email
+0.8155168171979557,High Risk,Assign dedicated support agent
+0.8155083285961139,High Risk,Assign dedicated support agent
+0.8154541908597328,High Risk,Assign dedicated support agent
+0.8149978716877918,High Risk,Assign dedicated support agent
+0.8145648117488581,High Risk,Assign dedicated support agent
+0.8145365835797008,High Risk,Assign dedicated support agent
+0.8142964091336709,High Risk,Assign dedicated support agent
+0.8142496701776998,High Risk,Assign dedicated support agent
+0.8140067456483083,High Risk,Assign dedicated support agent
+0.8138744018181175,High Risk,Assign dedicated support agent
+0.8137860627253207,High Risk,Send onboarding assistance email
+0.8137849200896836,High Risk,Assign dedicated support agent
+0.8135766104523917,High Risk,Assign dedicated support agent
+0.8135453656803955,High Risk,Send onboarding assistance email
+0.8134481325922593,High Risk,Assign dedicated support agent
+0.8134373740858115,High Risk,Assign dedicated support agent
+0.8133206317565531,High Risk,Send onboarding assistance email
+0.8133206317565531,High Risk,Send onboarding assistance email
+0.8127700768342041,High Risk,Assign dedicated support agent
+0.8127358551043109,High Risk,Send onboarding assistance email
+0.8125622527983967,High Risk,Send onboarding assistance email
+0.8125503735509138,High Risk,Send onboarding assistance email
+0.8124195997648898,High Risk,Assign dedicated support agent
+0.8123138643801009,High Risk,Assign dedicated support agent
+0.8122309770447095,High Risk,Assign dedicated support agent
+0.812191556230508,High Risk,Assign dedicated support agent
+0.8121750363749923,High Risk,Assign dedicated support agent
+0.8121495941345802,High Risk,Assign dedicated support agent
+0.8118957676732559,High Risk,Assign dedicated support agent
+0.8118745894066026,High Risk,Assign dedicated support agent
+0.8118270010751033,High Risk,Assign dedicated support agent
+0.8116568952734124,High Risk,Send onboarding assistance email
+0.8115898989663338,High Risk,Assign dedicated support agent
+0.811149217333437,High Risk,Assign dedicated support agent
+0.8109576077735332,High Risk,Assign dedicated support agent
+0.8107772650175139,High Risk,Send onboarding assistance email
+0.8107377021471254,High Risk,Send onboarding assistance email
+0.8103173338098024,High Risk,Assign dedicated support agent
+0.810312403617081,High Risk,Assign dedicated support agent
+0.8102376055215678,High Risk,Assign dedicated support agent
+0.8101720567101139,High Risk,Assign dedicated support agent
+0.8100292865246032,High Risk,Send onboarding assistance email
+0.8098152045983977,High Risk,Assign dedicated support agent
+0.8095835215406778,High Risk,Send onboarding assistance email
+0.809379208621602,High Risk,Assign dedicated support agent
+0.8092213917468,High Risk,Assign dedicated support agent
+0.8092146112821088,High Risk,Assign dedicated support agent
+0.8091494446737237,High Risk,Assign dedicated support agent
+0.808693053860098,High Risk,Assign dedicated support agent
+0.8086185608384531,High Risk,Assign dedicated support agent
+0.8081411761776414,High Risk,Assign dedicated support agent
+0.8081193654539552,High Risk,Assign dedicated support agent
+0.8074552470329347,High Risk,Assign dedicated support agent
+0.8074307779580852,High Risk,Assign dedicated support agent
+0.807314579860674,High Risk,Assign dedicated support agent
+0.8068119304401281,High Risk,Send onboarding assistance email
+0.8064848158954419,High Risk,Assign dedicated support agent
+0.8064815435872458,High Risk,Assign dedicated support agent
+0.8064700958476816,High Risk,Send onboarding assistance email
+0.806463479510809,High Risk,Assign dedicated support agent
+0.8062928591312586,High Risk,Assign dedicated support agent
+0.8059015234219253,High Risk,Assign dedicated support agent
+0.8058683467870409,High Risk,Assign dedicated support agent
+0.8051232088738352,High Risk,Assign dedicated support agent
+0.8050283852841794,High Risk,Send onboarding assistance email
+0.8047907618551129,High Risk,Assign dedicated support agent
+0.8047863418385333,High Risk,Assign dedicated support agent
+0.8047091165757644,High Risk,Assign dedicated support agent
+0.8046386948856479,High Risk,Send onboarding assistance email
+0.8046192954002527,High Risk,Assign dedicated support agent
+0.8041249331997242,High Risk,Send onboarding assistance email
+0.8034133018594615,High Risk,Assign dedicated support agent
+0.803246201530986,High Risk,Assign dedicated support agent
+0.8031372273941817,High Risk,Assign dedicated support agent
+0.803074855676976,High Risk,Assign dedicated support agent
+0.8027314547105636,High Risk,Assign dedicated support agent
+0.8026195841368619,High Risk,Assign dedicated support agent
+0.8026064344933892,High Risk,Assign dedicated support agent
+0.8025935357748625,High Risk,Assign dedicated support agent
+0.8023895181902704,High Risk,Assign dedicated support agent
+0.8023215595937856,High Risk,Assign dedicated support agent
+0.8021997292455396,High Risk,Assign dedicated support agent
+0.8021439181853549,High Risk,Assign dedicated support agent
+0.802033302231385,High Risk,Assign dedicated support agent
+0.8020330433592099,High Risk,Send onboarding assistance email
+0.8015892946006304,High Risk,Send onboarding assistance email
+0.8011649721149765,High Risk,Assign dedicated support agent
+0.8010080772454518,High Risk,Assign dedicated support agent
+0.8008270514160083,High Risk,Assign dedicated support agent
+0.800638689836421,High Risk,Assign dedicated support agent
+0.8004860073251453,High Risk,Assign dedicated support agent
+0.8003262486452403,High Risk,Assign dedicated support agent
+0.8001422170538274,High Risk,Assign dedicated support agent
+0.799893511319182,High Risk,Assign dedicated support agent
+0.7997871829755779,High Risk,Send onboarding assistance email
+0.7997729020845591,High Risk,Assign dedicated support agent
+0.7994200338255485,High Risk,Send onboarding assistance email
+0.7993485807727987,High Risk,Assign dedicated support agent
+0.7989745057459865,High Risk,Assign dedicated support agent
+0.7982301676865252,High Risk,Send onboarding assistance email
+0.7981977267724533,High Risk,Assign dedicated support agent
+0.7981861454305081,High Risk,Send onboarding assistance email
+0.7981373810763744,High Risk,Assign dedicated support agent
+0.7980154912836269,High Risk,Assign dedicated support agent
+0.7978735386309589,High Risk,Assign dedicated support agent
+0.797665854768519,High Risk,Assign dedicated support agent
+0.7975305376281875,High Risk,Send onboarding assistance email
+0.7974297627073348,High Risk,Send onboarding assistance email
+0.7968352167281998,High Risk,Assign dedicated support agent
+0.7968336347080188,High Risk,Assign dedicated support agent
+0.796832244153701,High Risk,Assign dedicated support agent
+0.7967820276593158,High Risk,Assign dedicated support agent
+0.7959991918355414,High Risk,Assign dedicated support agent
+0.7959603958981428,High Risk,Send onboarding assistance email
+0.7958526323301016,High Risk,Assign dedicated support agent
+0.7957248430776173,High Risk,Send onboarding assistance email
+0.7957138600851014,High Risk,Assign dedicated support agent
+0.7953593134708709,High Risk,Send onboarding assistance email
+0.795227860286014,High Risk,Assign dedicated support agent
+0.7950106908749086,High Risk,Assign dedicated support agent
+0.7948508187926694,High Risk,Assign dedicated support agent
+0.7946304618144788,High Risk,Assign dedicated support agent
+0.7945402235778372,High Risk,Send onboarding assistance email
+0.7944568444470922,High Risk,Assign dedicated support agent
+0.7943528895700764,High Risk,Assign dedicated support agent
+0.7941244077008518,High Risk,Assign dedicated support agent
+0.7939352018468645,High Risk,Assign dedicated support agent
+0.7936850845908688,High Risk,Assign dedicated support agent
+0.7934998591432914,High Risk,Assign dedicated support agent
+0.7932811677369469,High Risk,Assign dedicated support agent
+0.7929795521954742,High Risk,Assign dedicated support agent
+0.7929317800925196,High Risk,Assign dedicated support agent
+0.792904146733377,High Risk,Send onboarding assistance email
+0.792779755328285,High Risk,Assign dedicated support agent
+0.7927086232357081,High Risk,Assign dedicated support agent
+0.7924357052161742,High Risk,Assign dedicated support agent
+0.7924344851381921,High Risk,Assign dedicated support agent
+0.7923620391464116,High Risk,Assign dedicated support agent
+0.7921782526642573,High Risk,Send onboarding assistance email
+0.7920641138757141,High Risk,Assign dedicated support agent
+0.7920150057607549,High Risk,Assign dedicated support agent
+0.791859563040346,High Risk,Send onboarding assistance email
+0.791762305074994,High Risk,Send onboarding assistance email
+0.7917295477309692,High Risk,Send onboarding assistance email
+0.7915744853086762,High Risk,Assign dedicated support agent
+0.7914791641614489,High Risk,Send onboarding assistance email
+0.7913538105642575,High Risk,Assign dedicated support agent
+0.7913350281248982,High Risk,Assign dedicated support agent
+0.7906289350330502,High Risk,Assign dedicated support agent
+0.7905127108035931,High Risk,Assign dedicated support agent
+0.7903532118176437,High Risk,Assign dedicated support agent
+0.7902139334874562,High Risk,Assign dedicated support agent
+0.7901957504490514,High Risk,Assign dedicated support agent
+0.7901857053092215,High Risk,Send onboarding assistance email
+0.7901857053092215,High Risk,Send onboarding assistance email
+0.7898488418572159,High Risk,Send onboarding assistance email
+0.7892370324816786,High Risk,Send onboarding assistance email
+0.7891348735383333,High Risk,Assign dedicated support agent
+0.7889740251886913,High Risk,Assign dedicated support agent
+0.7888616178166152,High Risk,Assign dedicated support agent
+0.7888220569462076,High Risk,Assign dedicated support agent
+0.7887155168391422,High Risk,Assign dedicated support agent
+0.7886305272139196,High Risk,Assign dedicated support agent
+0.7884773922311956,High Risk,Send onboarding assistance email
+0.788353802777638,High Risk,Assign dedicated support agent
+0.7883022564768706,High Risk,Assign dedicated support agent
+0.7882814139361264,High Risk,Assign dedicated support agent
+0.7874104716514758,High Risk,Assign dedicated support agent
+0.7873650681249651,High Risk,Assign dedicated support agent
+0.7873155291662084,High Risk,Assign dedicated support agent
+0.7872074360986797,High Risk,Send onboarding assistance email
+0.7865808317495632,High Risk,Assign dedicated support agent
+0.7864983395781533,High Risk,Assign dedicated support agent
+0.7864153736704709,High Risk,Assign dedicated support agent
+0.7863690209496517,High Risk,Assign dedicated support agent
+0.7863009357033103,High Risk,Send onboarding assistance email
+0.7862510382562252,High Risk,Send onboarding assistance email
+0.786128339743611,High Risk,Assign dedicated support agent
+0.7859442272558584,High Risk,Assign dedicated support agent
+0.785788570126269,High Risk,Send onboarding assistance email
+0.7857158091832975,High Risk,Send onboarding assistance email
+0.7854295982696259,High Risk,Send onboarding assistance email
+0.7853204819185023,High Risk,Send onboarding assistance email
+0.7850697782575008,High Risk,Assign dedicated support agent
+0.7850657763688098,High Risk,Assign dedicated support agent
+0.785011237911124,High Risk,Send onboarding assistance email
+0.7849483413217371,High Risk,Assign dedicated support agent
+0.7849219770443407,High Risk,Assign dedicated support agent
+0.7847523005243314,High Risk,Assign dedicated support agent
+0.7847478159733521,High Risk,Assign dedicated support agent
+0.7846562899219249,High Risk,Assign dedicated support agent
+0.7843646593927367,High Risk,Send onboarding assistance email
+0.7841043104853168,High Risk,Assign dedicated support agent
+0.7835997306042919,High Risk,Assign dedicated support agent
+0.7835893575880719,High Risk,Assign dedicated support agent
+0.7834712863170807,High Risk,Send onboarding assistance email
+0.7828868885452329,High Risk,Assign dedicated support agent
+0.7828310242486931,High Risk,Assign dedicated support agent
+0.7827944636443985,High Risk,Send onboarding assistance email
+0.7827205066335723,High Risk,Assign dedicated support agent
+0.7826993221902698,High Risk,Send onboarding assistance email
+0.7824556128360827,High Risk,Assign dedicated support agent
+0.7821312139810362,High Risk,Assign dedicated support agent
+0.782075724669285,High Risk,Assign dedicated support agent
+0.781971451404757,High Risk,Assign dedicated support agent
+0.7819685648811878,High Risk,Assign dedicated support agent
+0.7819145799602064,High Risk,Assign dedicated support agent
+0.7817549663816635,High Risk,Assign dedicated support agent
+0.7817269696470868,High Risk,Assign dedicated support agent
+0.7816315994886487,High Risk,Send onboarding assistance email
+0.7814238289171884,High Risk,Assign dedicated support agent
+0.7812338612241977,High Risk,Assign dedicated support agent
+0.7811304591167141,High Risk,Send onboarding assistance email
+0.7805873163640811,High Risk,Assign dedicated support agent
+0.7803686435213453,High Risk,Assign dedicated support agent
+0.7800655997102439,High Risk,Send onboarding assistance email
+0.7796313635529222,High Risk,Send onboarding assistance email
+0.7795546646126185,High Risk,Assign dedicated support agent
+0.7793204822758685,High Risk,Send onboarding assistance email
+0.7792904664174738,High Risk,Assign dedicated support agent
+0.7791504233695895,High Risk,Assign dedicated support agent
+0.7783183626205086,High Risk,Assign dedicated support agent
+0.7783094982668974,High Risk,Send onboarding assistance email
+0.7782868929667651,High Risk,Send onboarding assistance email
+0.7782616865366758,High Risk,Assign dedicated support agent
+0.7781892232732488,High Risk,Assign dedicated support agent
+0.7780862450563154,High Risk,Assign dedicated support agent
+0.7780558261032471,High Risk,Assign dedicated support agent
+0.7779781907212399,High Risk,Assign dedicated support agent
+0.777901149763474,High Risk,Send onboarding assistance email
+0.7778971131058793,High Risk,Assign dedicated support agent
+0.7776489787280971,High Risk,Assign dedicated support agent
+0.7771875808957864,High Risk,Assign dedicated support agent
+0.7770542731452725,High Risk,Assign dedicated support agent
+0.7770351859016074,High Risk,Send onboarding assistance email
+0.777031773434541,High Risk,Assign dedicated support agent
+0.7769865402702848,High Risk,Assign dedicated support agent
+0.7768944190264758,High Risk,Send onboarding assistance email
+0.7767570199222404,High Risk,Assign dedicated support agent
+0.7766793171007649,High Risk,Assign dedicated support agent
+0.7766391820021882,High Risk,Assign dedicated support agent
+0.7763872174682863,High Risk,Send onboarding assistance email
+0.7762994102608803,High Risk,Send onboarding assistance email
+0.7761183796309093,High Risk,Send onboarding assistance email
+0.7760775333630278,High Risk,Send onboarding assistance email
+0.7760620113697355,High Risk,Assign dedicated support agent
+0.7758430209109668,High Risk,Send onboarding assistance email
+0.7758145499864024,High Risk,Assign dedicated support agent
+0.7755987220290058,High Risk,Send onboarding assistance email
+0.7755685075158296,High Risk,Assign dedicated support agent
+0.7755407296716623,High Risk,Assign dedicated support agent
+0.7753298717682305,High Risk,Assign dedicated support agent
+0.7752492753334463,High Risk,Send onboarding assistance email
+0.7750616715769982,High Risk,Assign dedicated support agent
+0.7749920417393816,High Risk,Send onboarding assistance email
+0.7749522951856848,High Risk,Assign dedicated support agent
+0.7748138154500255,High Risk,Assign dedicated support agent
+0.774677268273026,High Risk,Assign dedicated support agent
+0.7746537044378319,High Risk,Assign dedicated support agent
+0.7745659881625103,High Risk,Assign dedicated support agent
+0.7743262899712583,High Risk,Assign dedicated support agent
+0.7740532650491965,High Risk,Assign dedicated support agent
+0.7740390849665373,High Risk,Assign dedicated support agent
+0.7739113665215747,High Risk,Assign dedicated support agent
+0.7737179777445152,High Risk,Assign dedicated support agent
+0.7735927925637149,High Risk,Assign dedicated support agent
+0.7735896306710133,High Risk,Assign dedicated support agent
+0.7734149901763041,High Risk,Assign dedicated support agent
+0.7731837665136542,High Risk,Assign dedicated support agent
+0.7729402384035718,High Risk,Assign dedicated support agent
+0.772830607325964,High Risk,Assign dedicated support agent
+0.7727095969368287,High Risk,Send onboarding assistance email
+0.7725476352308155,High Risk,Assign dedicated support agent
+0.7721698783453964,High Risk,Send onboarding assistance email
+0.7721514665065459,High Risk,Assign dedicated support agent
+0.7719265926232235,High Risk,Send onboarding assistance email
+0.7719155254015618,High Risk,Assign dedicated support agent
+0.7717114235392967,High Risk,Assign dedicated support agent
+0.7716316225222043,High Risk,Assign dedicated support agent
+0.7716004986112723,High Risk,Assign dedicated support agent
+0.7715758228788089,High Risk,Send onboarding assistance email
+0.7714365401587346,High Risk,Send onboarding assistance email
+0.7712236437449187,High Risk,Assign dedicated support agent
+0.7711499654716127,High Risk,Assign dedicated support agent
+0.7711373364447048,High Risk,Send onboarding assistance email
+0.7709819841830824,High Risk,Assign dedicated support agent
+0.7704460913017875,High Risk,Send onboarding assistance email
+0.7702412556539372,High Risk,Assign dedicated support agent
+0.7701557812856167,High Risk,Send onboarding assistance email
+0.7699706248705012,High Risk,Send onboarding assistance email
+0.769873321744689,High Risk,Assign dedicated support agent
+0.7698395213196033,High Risk,Send onboarding assistance email
+0.7698281451956328,High Risk,Assign dedicated support agent
+0.7696222558913902,High Risk,Assign dedicated support agent
+0.7692419179716979,High Risk,Assign dedicated support agent
+0.7692312507985062,High Risk,Assign dedicated support agent
+0.7691828608120121,High Risk,Assign dedicated support agent
+0.7688415315840114,High Risk,Send onboarding assistance email
+0.7688143555047705,High Risk,Assign dedicated support agent
+0.7683675458127475,High Risk,Send onboarding assistance email
+0.7683544723246614,High Risk,Assign dedicated support agent
+0.7683211280724092,High Risk,Assign dedicated support agent
+0.7682597990447333,High Risk,Send onboarding assistance email
+0.7682498557541229,High Risk,Send onboarding assistance email
+0.7680423389299063,High Risk,Assign dedicated support agent
+0.7677985361307667,High Risk,Assign dedicated support agent
+0.7675423452727137,High Risk,Send onboarding assistance email
+0.7674632668328697,High Risk,Send onboarding assistance email
+0.7674305049630141,High Risk,Assign dedicated support agent
+0.7673939276311086,High Risk,Assign dedicated support agent
+0.7673838341820683,High Risk,Send onboarding assistance email
+0.7673727441076217,High Risk,Send onboarding assistance email
+0.7671970641319157,High Risk,Send onboarding assistance email
+0.7670224129648316,High Risk,Assign dedicated support agent
+0.7668972768385278,High Risk,Assign dedicated support agent
+0.7667888417011115,High Risk,Assign dedicated support agent
+0.7666581912827307,High Risk,Assign dedicated support agent
+0.7666319850107467,High Risk,Send onboarding assistance email
+0.7665531408098838,High Risk,Send onboarding assistance email
+0.7662757435708205,High Risk,Assign dedicated support agent
+0.7662444426983694,High Risk,Assign dedicated support agent
+0.7662442768192562,High Risk,Send onboarding assistance email
+0.7659013287627462,High Risk,Assign dedicated support agent
+0.7659002622376593,High Risk,Assign dedicated support agent
+0.765834607366321,High Risk,Assign dedicated support agent
+0.7658111476311581,High Risk,Send onboarding assistance email
+0.7656366368090635,High Risk,Assign dedicated support agent
+0.7655025410454148,High Risk,Assign dedicated support agent
+0.7653096795147863,High Risk,Assign dedicated support agent
+0.7651709806152036,High Risk,Assign dedicated support agent
+0.765033710992696,High Risk,Assign dedicated support agent
+0.7649766237403444,High Risk,Send onboarding assistance email
+0.7648839224262339,High Risk,Assign dedicated support agent
+0.7647728393852686,High Risk,Assign dedicated support agent
+0.7646774355521139,High Risk,Assign dedicated support agent
+0.7645338465965814,High Risk,Send onboarding assistance email
+0.7642761683269486,High Risk,Assign dedicated support agent
+0.7642224240293456,High Risk,Assign dedicated support agent
+0.76421795194556,High Risk,Send onboarding assistance email
+0.7639397119343734,High Risk,Send onboarding assistance email
+0.7636179807535362,High Risk,Assign dedicated support agent
+0.7635587734034359,High Risk,Send onboarding assistance email
+0.7634999990756041,High Risk,Send onboarding assistance email
+0.7634696643316523,High Risk,Send onboarding assistance email
+0.7632912044316033,High Risk,Send onboarding assistance email
+0.7632398166163524,High Risk,Assign dedicated support agent
+0.7631679356417013,High Risk,Send onboarding assistance email
+0.763158327529924,High Risk,Assign dedicated support agent
+0.763140677916721,High Risk,Send onboarding assistance email
+0.7629258796661348,High Risk,Assign dedicated support agent
+0.7629228409128191,High Risk,Assign dedicated support agent
+0.7626948551392867,High Risk,Assign dedicated support agent
+0.7624410444135211,High Risk,Assign dedicated support agent
+0.7622930928620693,High Risk,Assign dedicated support agent
+0.7621342369936999,High Risk,Send onboarding assistance email
+0.7620890653602183,High Risk,Assign dedicated support agent
+0.7620035329613312,High Risk,Assign dedicated support agent
+0.7619645583008657,High Risk,Assign dedicated support agent
+0.7617835902791288,High Risk,Send onboarding assistance email
+0.7615282006572179,High Risk,Assign dedicated support agent
+0.7615053642416992,High Risk,Assign dedicated support agent
+0.7614911447164419,High Risk,Send onboarding assistance email
+0.7613404088104285,High Risk,Assign dedicated support agent
+0.7612012674759343,High Risk,Assign dedicated support agent
+0.7610753139101104,High Risk,Assign dedicated support agent
+0.7610496483573453,High Risk,Assign dedicated support agent
+0.7608961500243392,High Risk,Assign dedicated support agent
+0.7608007043864614,High Risk,Send onboarding assistance email
+0.7605917261206281,High Risk,Assign dedicated support agent
+0.760578348099774,High Risk,Assign dedicated support agent
+0.7604151317242753,High Risk,Assign dedicated support agent
+0.7604119173244378,High Risk,Send onboarding assistance email
+0.7599987585176032,High Risk,Assign dedicated support agent
+0.7599466122326518,High Risk,Assign dedicated support agent
+0.759939237716069,High Risk,Assign dedicated support agent
+0.7599060777108814,High Risk,Assign dedicated support agent
+0.7598880230162278,High Risk,Send onboarding assistance email
+0.7598044901729719,High Risk,Send onboarding assistance email
+0.7593487076938107,High Risk,Send onboarding assistance email
+0.759249311113886,High Risk,Assign dedicated support agent
+0.75871393468561,High Risk,Assign dedicated support agent
+0.7586564727178982,High Risk,Send onboarding assistance email
+0.7582854335635115,High Risk,Send onboarding assistance email
+0.7582392482649887,High Risk,Send onboarding assistance email
+0.758145991991443,High Risk,Assign dedicated support agent
+0.7581321894742341,High Risk,Send onboarding assistance email
+0.7580695574705216,High Risk,Send onboarding assistance email
+0.7579480656347463,High Risk,Assign dedicated support agent
+0.7579360072621268,High Risk,Send onboarding assistance email
+0.7577365082097159,High Risk,Send onboarding assistance email
+0.7575684729548088,High Risk,Assign dedicated support agent
+0.7575037661982249,High Risk,Send onboarding assistance email
+0.7571618789772788,High Risk,Assign dedicated support agent
+0.7570218496058435,High Risk,Assign dedicated support agent
+0.7569144927410987,High Risk,Send onboarding assistance email
+0.7566783510869054,High Risk,Assign dedicated support agent
+0.756436956567327,High Risk,Send onboarding assistance email
+0.7563299026587518,High Risk,Send onboarding assistance email
+0.7562453872867521,High Risk,Assign dedicated support agent
+0.755610791836595,High Risk,Assign dedicated support agent
+0.7555093698939814,High Risk,Assign dedicated support agent
+0.7554374779610008,High Risk,Assign dedicated support agent
+0.7554181359668987,High Risk,Send onboarding assistance email
+0.7553314340418926,High Risk,Assign dedicated support agent
+0.7550129400622327,High Risk,Assign dedicated support agent
+0.7550056875884432,High Risk,Assign dedicated support agent
+0.7548972104677881,High Risk,Send onboarding assistance email
+0.7548248337657903,High Risk,Assign dedicated support agent
+0.7546579745143919,High Risk,Assign dedicated support agent
+0.754611487705175,High Risk,Assign dedicated support agent
+0.7544925426393049,High Risk,Assign dedicated support agent
+0.7542634529486538,High Risk,Assign dedicated support agent
+0.754141222375952,High Risk,Assign dedicated support agent
+0.754074438108971,High Risk,Assign dedicated support agent
+0.7540077185797562,High Risk,Send onboarding assistance email
+0.7539302296680747,High Risk,Send onboarding assistance email
+0.7537567246920684,High Risk,Send onboarding assistance email
+0.753676932025638,High Risk,Send onboarding assistance email
+0.7535941302199664,High Risk,Send onboarding assistance email
+0.7535751680319898,High Risk,Send onboarding assistance email
+0.75350696249184,High Risk,Assign dedicated support agent
+0.7533231943934813,High Risk,Assign dedicated support agent
+0.7532775157083356,High Risk,Send onboarding assistance email
+0.7531687622107809,High Risk,Send onboarding assistance email
+0.7531456060111728,High Risk,Send onboarding assistance email
+0.7530787769460229,High Risk,Assign dedicated support agent
+0.7530507123492921,High Risk,Assign dedicated support agent
+0.7529539438925026,High Risk,Send onboarding assistance email
+0.7529208449238728,High Risk,Assign dedicated support agent
+0.7528673180556069,High Risk,Send onboarding assistance email
+0.7526730298983967,High Risk,Assign dedicated support agent
+0.752660609916253,High Risk,Send onboarding assistance email
+0.7524634786404603,High Risk,Send onboarding assistance email
+0.752273747905749,High Risk,Assign dedicated support agent
+0.7518691934729789,High Risk,Assign dedicated support agent
+0.7518151130832933,High Risk,Send onboarding assistance email
+0.7517591537815221,High Risk,Assign dedicated support agent
+0.7509880719781529,High Risk,Assign dedicated support agent
+0.7508352020334721,High Risk,Send onboarding assistance email
+0.7504442238500231,High Risk,Send onboarding assistance email
+0.7504021419155668,High Risk,Send onboarding assistance email
+0.7503873358644364,High Risk,Assign dedicated support agent
+0.750179708384186,High Risk,Send onboarding assistance email
+0.7501429865523958,High Risk,Send onboarding assistance email
+0.7499961222803515,High Risk,Send onboarding assistance email
+0.7497035784385275,High Risk,Assign dedicated support agent
+0.749468204930338,High Risk,Assign dedicated support agent
+0.7494255881691874,High Risk,Assign dedicated support agent
+0.7491474966425298,High Risk,Assign dedicated support agent
+0.7490849810616524,High Risk,Assign dedicated support agent
+0.7490576909341299,High Risk,Send onboarding assistance email
+0.7488683266253474,High Risk,Assign dedicated support agent
+0.7486492642750584,High Risk,Assign dedicated support agent
+0.748561652749689,High Risk,Assign dedicated support agent
+0.7484054127440367,High Risk,Send onboarding assistance email
+0.7483947698827097,High Risk,Assign dedicated support agent
+0.7483877296641706,High Risk,Assign dedicated support agent
+0.7481185842995618,High Risk,Send onboarding assistance email
+0.7481185842995618,High Risk,Send onboarding assistance email
+0.7480765482737276,High Risk,Assign dedicated support agent
+0.7480724295105731,High Risk,Assign dedicated support agent
+0.7480451187654279,High Risk,Assign dedicated support agent
+0.7479414982955832,High Risk,Send onboarding assistance email
+0.7478764594538823,High Risk,Assign dedicated support agent
+0.7477120162672448,High Risk,Assign dedicated support agent
+0.7476116102418243,High Risk,Assign dedicated support agent
+0.7475268340120901,High Risk,Send onboarding assistance email
+0.7473809578850539,High Risk,Assign dedicated support agent
+0.7472245012088173,High Risk,Assign dedicated support agent
+0.7465032766345692,High Risk,Assign dedicated support agent
+0.7464378942336747,High Risk,Assign dedicated support agent
+0.7464105695299884,High Risk,Send onboarding assistance email
+0.7463777864097004,High Risk,Send onboarding assistance email
+0.7461169776301944,High Risk,Assign dedicated support agent
+0.7458798785302817,High Risk,Assign dedicated support agent
+0.7454136650291506,High Risk,Assign dedicated support agent
+0.7453324096819014,High Risk,Send onboarding assistance email
+0.7452739880671835,High Risk,Assign dedicated support agent
+0.7451857493277337,High Risk,Send onboarding assistance email
+0.7445892655870813,High Risk,Assign dedicated support agent
+0.744497450084557,High Risk,Send onboarding assistance email
+0.7441509607357218,High Risk,Send onboarding assistance email
+0.7440516700197393,High Risk,Assign dedicated support agent
+0.7439011657295027,High Risk,Assign dedicated support agent
+0.7435318592710122,High Risk,Assign dedicated support agent
+0.7435233261096778,High Risk,Send onboarding assistance email
+0.7434755487947555,High Risk,Send onboarding assistance email
+0.7434083546018614,High Risk,Assign dedicated support agent
+0.7431804188487696,High Risk,Send onboarding assistance email
+0.7431124911922119,High Risk,Send onboarding assistance email
+0.7430975557686881,High Risk,Assign dedicated support agent
+0.7427896241157693,High Risk,Assign dedicated support agent
+0.7426654489787495,High Risk,Send onboarding assistance email
+0.7422250185247211,High Risk,Send onboarding assistance email
+0.7420677433069156,High Risk,Assign dedicated support agent
+0.741971742237481,High Risk,Assign dedicated support agent
+0.7417044688465683,High Risk,Assign dedicated support agent
+0.7414900032569913,High Risk,Send onboarding assistance email
+0.7414843362662025,High Risk,Send onboarding assistance email
+0.7414023113357273,High Risk,Assign dedicated support agent
+0.7413780997934297,High Risk,Assign dedicated support agent
+0.7412132738521177,High Risk,Assign dedicated support agent
+0.74111259937885,High Risk,Assign dedicated support agent
+0.7410690713391525,High Risk,Send onboarding assistance email
+0.7408510954641195,High Risk,Send onboarding assistance email
+0.7407135411630021,High Risk,Assign dedicated support agent
+0.7405852787796908,High Risk,Send onboarding assistance email
+0.7405142304810023,High Risk,Send onboarding assistance email
+0.7403367635433113,High Risk,Assign dedicated support agent
+0.7399175672683195,High Risk,Assign dedicated support agent
+0.7398484220022639,High Risk,Assign dedicated support agent
+0.7398059081023299,High Risk,Send onboarding assistance email
+0.7397097645082853,High Risk,Assign dedicated support agent
+0.7396575163358284,High Risk,Send onboarding assistance email
+0.7395424197603032,High Risk,Assign dedicated support agent
+0.7393328223654074,High Risk,Send onboarding assistance email
+0.7391936418337697,High Risk,Send onboarding assistance email
+0.7389728992814873,High Risk,Assign dedicated support agent
+0.7389615037862589,High Risk,Send onboarding assistance email
+0.7389468836523382,High Risk,Assign dedicated support agent
+0.7386764307022924,High Risk,Send onboarding assistance email
+0.7379659489834132,High Risk,Assign dedicated support agent
+0.7379645433851035,High Risk,Assign dedicated support agent
+0.7377118756794283,High Risk,Send onboarding assistance email
+0.7376341579064196,High Risk,Assign dedicated support agent
+0.7373686342647678,High Risk,Send onboarding assistance email
+0.7373044362242009,High Risk,Assign dedicated support agent
+0.7370955358267619,High Risk,Assign dedicated support agent
+0.7366085408567261,High Risk,Assign dedicated support agent
+0.7365729921294824,High Risk,Send onboarding assistance email
+0.736542497902209,High Risk,Assign dedicated support agent
+0.7365258308730105,High Risk,Assign dedicated support agent
+0.7364717064760571,High Risk,Send onboarding assistance email
+0.7362796175864826,High Risk,Assign dedicated support agent
+0.7362692849892035,High Risk,Send onboarding assistance email
+0.7361581783388428,High Risk,Assign dedicated support agent
+0.7358198426873962,High Risk,Assign dedicated support agent
+0.7357390281884623,High Risk,Assign dedicated support agent
+0.7356520332854442,High Risk,Assign dedicated support agent
+0.7355530776150048,High Risk,Send onboarding assistance email
+0.7354268148320676,High Risk,Assign dedicated support agent
+0.7354218760132223,High Risk,Assign dedicated support agent
+0.7353599824758353,High Risk,Send onboarding assistance email
+0.7351765045855501,High Risk,Send onboarding assistance email
+0.734101402106933,High Risk,Assign dedicated support agent
+0.7341001464698325,High Risk,Assign dedicated support agent
+0.7340343755440173,High Risk,Assign dedicated support agent
+0.7338675301282673,High Risk,Assign dedicated support agent
+0.7338600204107055,High Risk,Send onboarding assistance email
+0.7336104808832691,High Risk,Assign dedicated support agent
+0.7334595462777912,High Risk,Send onboarding assistance email
+0.7333347479489021,High Risk,Assign dedicated support agent
+0.7330992658427757,High Risk,Assign dedicated support agent
+0.7330433612580205,High Risk,Assign dedicated support agent
+0.7327908178240338,High Risk,Assign dedicated support agent
+0.7326238877221753,High Risk,Send onboarding assistance email
+0.7326034853211583,High Risk,Assign dedicated support agent
+0.732263115240802,High Risk,Send onboarding assistance email
+0.7321130742246439,High Risk,Assign dedicated support agent
+0.732032671951343,High Risk,Assign dedicated support agent
+0.7319519208430463,High Risk,Send onboarding assistance email
+0.7318495515234491,High Risk,Assign dedicated support agent
+0.7318037624245849,High Risk,Assign dedicated support agent
+0.7316498302965436,High Risk,Send onboarding assistance email
+0.7316400154502867,High Risk,Assign dedicated support agent
+0.7315654174881715,High Risk,Send onboarding assistance email
+0.7312878495572138,High Risk,Assign dedicated support agent
+0.7312666030764503,High Risk,Assign dedicated support agent
+0.7312248333779587,High Risk,Assign dedicated support agent
+0.7312154829476692,High Risk,Send onboarding assistance email
+0.7309489655415667,High Risk,Send onboarding assistance email
+0.7309205969354483,High Risk,Assign dedicated support agent
+0.7306485120497267,High Risk,Assign dedicated support agent
+0.7305272214484175,High Risk,Send onboarding assistance email
+0.7303507099438247,High Risk,Assign dedicated support agent
+0.7302631904834322,High Risk,Assign dedicated support agent
+0.7298028321169296,High Risk,Send onboarding assistance email
+0.7293204515165331,High Risk,Send onboarding assistance email
+0.7289692772323068,High Risk,Assign dedicated support agent
+0.7285432834662728,High Risk,Assign dedicated support agent
+0.728363236526234,High Risk,Send onboarding assistance email
+0.7281349431396842,High Risk,Assign dedicated support agent
+0.7278316561657295,High Risk,Assign dedicated support agent
+0.727590652534347,High Risk,Send onboarding assistance email
+0.7272937293158809,High Risk,Assign dedicated support agent
+0.7270828382149607,High Risk,Send onboarding assistance email
+0.7270498709475061,High Risk,Assign dedicated support agent
+0.7270325716142295,High Risk,Assign dedicated support agent
+0.7268003731671504,High Risk,Assign dedicated support agent
+0.7264538412496031,High Risk,Assign dedicated support agent
+0.726411541081496,High Risk,Assign dedicated support agent
+0.7263217156249065,High Risk,Send onboarding assistance email
+0.7261921205581118,High Risk,Assign dedicated support agent
+0.7261773207177415,High Risk,Send onboarding assistance email
+0.7261442704367886,High Risk,Assign dedicated support agent
+0.7260553982827074,High Risk,Assign dedicated support agent
+0.7256022563491566,High Risk,Send onboarding assistance email
+0.7253792008259567,High Risk,Send onboarding assistance email
+0.7253390387807489,High Risk,Assign dedicated support agent
+0.7247974981766211,High Risk,Send onboarding assistance email
+0.724785913224559,High Risk,Assign dedicated support agent
+0.724668401874196,High Risk,Assign dedicated support agent
+0.7246304239605716,High Risk,Send onboarding assistance email
+0.7246154998943807,High Risk,Send onboarding assistance email
+0.7245898234586106,High Risk,Send onboarding assistance email
+0.7244798565263046,High Risk,Assign dedicated support agent
+0.7243823891798259,High Risk,Assign dedicated support agent
+0.7241019940673823,High Risk,Assign dedicated support agent
+0.7241015947940366,High Risk,Send onboarding assistance email
+0.7237202739337292,High Risk,Send onboarding assistance email
+0.7235705908052681,High Risk,Assign dedicated support agent
+0.7231887291893604,High Risk,Send onboarding assistance email
+0.7231020104571264,High Risk,Assign dedicated support agent
+0.7230784242029635,High Risk,Send onboarding assistance email
+0.7229505996028912,High Risk,Assign dedicated support agent
+0.7225363357354417,High Risk,Assign dedicated support agent
+0.7223690244571422,High Risk,Assign dedicated support agent
+0.722353758649833,High Risk,Assign dedicated support agent
+0.7222185613138951,High Risk,Send onboarding assistance email
+0.7222107723598137,High Risk,Assign dedicated support agent
+0.7220653011720176,High Risk,Send onboarding assistance email
+0.7220169871858841,High Risk,Assign dedicated support agent
+0.7219967297812631,High Risk,Assign dedicated support agent
+0.7219538545859565,High Risk,Assign dedicated support agent
+0.7218768439919547,High Risk,Send onboarding assistance email
+0.7217627384186955,High Risk,Send onboarding assistance email
+0.7216119751809035,High Risk,Send onboarding assistance email
+0.7214996486936934,High Risk,Send onboarding assistance email
+0.7214144397682212,High Risk,Send onboarding assistance email
+0.7213633873078154,High Risk,Assign dedicated support agent
+0.7213486402239677,High Risk,Assign dedicated support agent
+0.7213410227492565,High Risk,Assign dedicated support agent
+0.7212962622518821,High Risk,Send onboarding assistance email
+0.7210061226857072,High Risk,Send onboarding assistance email
+0.720784222793066,High Risk,Send onboarding assistance email
+0.7204431321595647,High Risk,Assign dedicated support agent
+0.7202172347526649,High Risk,Assign dedicated support agent
+0.719807792043616,High Risk,Assign dedicated support agent
+0.7196778647314414,High Risk,Assign dedicated support agent
+0.7196026320810206,High Risk,Send onboarding assistance email
+0.7195146910800454,High Risk,Assign dedicated support agent
+0.718858041675952,High Risk,Send onboarding assistance email
+0.7186403899243173,High Risk,Send onboarding assistance email
+0.7181252762160488,High Risk,Assign dedicated support agent
+0.7180335053126157,High Risk,Assign dedicated support agent
+0.717910982333984,High Risk,Assign dedicated support agent
+0.7177800277721269,High Risk,Assign dedicated support agent
+0.7177145448051805,High Risk,Send onboarding assistance email
+0.7173698482904252,High Risk,Send onboarding assistance email
+0.7172822112000061,High Risk,Send onboarding assistance email
+0.7172083925168142,High Risk,Send onboarding assistance email
+0.7168317804324942,High Risk,Send onboarding assistance email
+0.7166682321688296,High Risk,Send onboarding assistance email
+0.7166682321688296,High Risk,Send onboarding assistance email
+0.7164348852391567,High Risk,Assign dedicated support agent
+0.716412055713597,High Risk,Assign dedicated support agent
+0.7164027891940825,High Risk,Send onboarding assistance email
+0.7162474795878088,High Risk,Send onboarding assistance email
+0.7161583217149666,High Risk,Assign dedicated support agent
+0.7161481886135741,High Risk,Send onboarding assistance email
+0.7160954242684512,High Risk,Assign dedicated support agent
+0.7156491340900386,High Risk,Assign dedicated support agent
+0.7152712638195104,High Risk,Assign dedicated support agent
+0.7152288617252203,High Risk,Assign dedicated support agent
+0.715141740431114,High Risk,Assign dedicated support agent
+0.7149093959369095,High Risk,Assign dedicated support agent
+0.7148683222371645,High Risk,Assign dedicated support agent
+0.714685333562113,High Risk,Send onboarding assistance email
+0.7145661105337772,High Risk,Assign dedicated support agent
+0.7145429442154184,High Risk,Assign dedicated support agent
+0.7141728351024099,High Risk,Send onboarding assistance email
+0.7141249111189549,High Risk,Send onboarding assistance email
+0.7134300867862557,High Risk,Send onboarding assistance email
+0.7134118726883668,High Risk,Assign dedicated support agent
+0.7131549744322692,High Risk,Assign dedicated support agent
+0.7130717040422883,High Risk,Assign dedicated support agent
+0.7130480146066435,High Risk,Send onboarding assistance email
+0.7129889150655643,High Risk,Assign dedicated support agent
+0.7129675882165586,High Risk,Assign dedicated support agent
+0.7129434270246064,High Risk,Assign dedicated support agent
+0.7128972227793682,High Risk,Send onboarding assistance email
+0.7128879197755587,High Risk,Assign dedicated support agent
+0.7127955089016272,High Risk,Assign dedicated support agent
+0.712531722534948,High Risk,Send onboarding assistance email
+0.7125183826539022,High Risk,Send onboarding assistance email
+0.7125183826539022,High Risk,Send onboarding assistance email
+0.7124933062979503,High Risk,Assign dedicated support agent
+0.7120032647461559,High Risk,Assign dedicated support agent
+0.7118106119927868,High Risk,Assign dedicated support agent
+0.7117715390492569,High Risk,Send onboarding assistance email
+0.7116470915801937,High Risk,Send onboarding assistance email
+0.7115538935673864,High Risk,Assign dedicated support agent
+0.711257963678859,High Risk,Assign dedicated support agent
+0.7112121705895956,High Risk,Assign dedicated support agent
+0.7110017516554186,High Risk,Send onboarding assistance email
+0.7108642267081515,High Risk,Send onboarding assistance email
+0.7107453250496654,High Risk,Assign dedicated support agent
+0.7106702197362132,High Risk,Send onboarding assistance email
+0.71013312717065,High Risk,Send onboarding assistance email
+0.7100126491961103,High Risk,Send onboarding assistance email
+0.7098837606251922,High Risk,Assign dedicated support agent
+0.7096700604304944,High Risk,Send onboarding assistance email
+0.7095903544036779,High Risk,Assign dedicated support agent
+0.709344977798228,High Risk,Assign dedicated support agent
+0.7092274192734541,High Risk,Send onboarding assistance email
+0.709223243988205,High Risk,Send onboarding assistance email
+0.7091575943417279,High Risk,Assign dedicated support agent
+0.7090812484608006,High Risk,Assign dedicated support agent
+0.7090387885290633,High Risk,Send onboarding assistance email
+0.708073320956561,High Risk,Send onboarding assistance email
+0.708054357449482,High Risk,Send onboarding assistance email
+0.7077495657475523,High Risk,Assign dedicated support agent
+0.7077257109129742,High Risk,Assign dedicated support agent
+0.7071538439422302,High Risk,Assign dedicated support agent
+0.7070239606098764,High Risk,Send onboarding assistance email
+0.7066422974426861,High Risk,Assign dedicated support agent
+0.7065858809115774,High Risk,Assign dedicated support agent
+0.7065816659740025,High Risk,Assign dedicated support agent
+0.7065812265556035,High Risk,Send onboarding assistance email
+0.7064024689346874,High Risk,Send onboarding assistance email
+0.7063671475246694,High Risk,Assign dedicated support agent
+0.7061489738092707,High Risk,Send onboarding assistance email
+0.7056353902784358,High Risk,Assign dedicated support agent
+0.7056244421631068,High Risk,Assign dedicated support agent
+0.7055816642412414,High Risk,Assign dedicated support agent
+0.7052109927611283,High Risk,Assign dedicated support agent
+0.7051631640010728,High Risk,Assign dedicated support agent
+0.7051585856861962,High Risk,Send onboarding assistance email
+0.7050115879595619,High Risk,Send onboarding assistance email
+0.7045993820912984,High Risk,Assign dedicated support agent
+0.7043357365937913,High Risk,Assign dedicated support agent
+0.704333079324784,High Risk,Send onboarding assistance email
+0.7042116485579021,High Risk,Assign dedicated support agent
+0.7041764437894713,High Risk,Assign dedicated support agent
+0.7040276765204859,High Risk,Assign dedicated support agent
+0.7040236066435299,High Risk,Assign dedicated support agent
+0.7039165664511141,High Risk,Assign dedicated support agent
+0.7039140007582563,High Risk,Offer service bundle discount
+0.7037907178359062,High Risk,Offer service bundle discount
+0.7035810735007892,High Risk,Send onboarding assistance email
+0.7033058848502002,High Risk,Send onboarding assistance email
+0.7032397773236272,High Risk,Assign dedicated support agent
+0.7029086197042221,High Risk,Send onboarding assistance email
+0.702756949073007,High Risk,Assign dedicated support agent
+0.7026577573336819,High Risk,Send onboarding assistance email
+0.7022635853021613,High Risk,Offer service bundle discount
+0.7019820751994226,High Risk,Assign dedicated support agent
+0.7018947084685719,High Risk,Offer service bundle discount
+0.7017206745644299,High Risk,Send onboarding assistance email
+0.7016878106826343,High Risk,Send onboarding assistance email
+0.7011379239180152,High Risk,Assign dedicated support agent
+0.7010368701767254,High Risk,Offer service bundle discount
+0.7010356177251431,High Risk,Assign dedicated support agent
+0.7009706956941053,High Risk,Assign dedicated support agent
+0.7009069666303637,High Risk,Assign dedicated support agent
+0.7007467428869153,High Risk,Assign dedicated support agent
+0.7005091452981147,High Risk,Assign dedicated support agent
+0.700490158785146,High Risk,Send onboarding assistance email
+0.7004450383232178,High Risk,Send onboarding assistance email
+0.7003764161431486,High Risk,Send onboarding assistance email
+0.7000949989500157,High Risk,Send onboarding assistance email
+0.6994387802845707,Medium Risk,Send onboarding assistance email
+0.6993885015452612,Medium Risk,Offer service bundle discount
+0.6992592095809792,Medium Risk,Send onboarding assistance email
+0.69909272144197,Medium Risk,Send onboarding assistance email
+0.6990238916300306,Medium Risk,Offer service bundle discount
+0.6989941593647544,Medium Risk,Send onboarding assistance email
+0.6988543310089197,Medium Risk,Send onboarding assistance email
+0.6983606367060213,Medium Risk,Offer service bundle discount
+0.6982213513930954,Medium Risk,Offer service bundle discount
+0.6977143773546238,Medium Risk,Send onboarding assistance email
+0.6976481313420564,Medium Risk,Offer service bundle discount
+0.6974451393565989,Medium Risk,Offer service bundle discount
+0.697421137154825,Medium Risk,Offer service bundle discount
+0.6973670589407058,Medium Risk,Offer service bundle discount
+0.6972314923635523,Medium Risk,Send onboarding assistance email
+0.6969873630292568,Medium Risk,Offer service bundle discount
+0.6969622291436885,Medium Risk,Send onboarding assistance email
+0.696738222311119,Medium Risk,Send onboarding assistance email
+0.696738222311119,Medium Risk,Send onboarding assistance email
+0.6964679227538844,Medium Risk,Offer service bundle discount
+0.6964678285669669,Medium Risk,Send onboarding assistance email
+0.6962914061630925,Medium Risk,Offer service bundle discount
+0.6960393058170448,Medium Risk,Send onboarding assistance email
+0.695834660052445,Medium Risk,Offer service bundle discount
+0.6956803855683913,Medium Risk,Offer service bundle discount
+0.6956188556229198,Medium Risk,Send onboarding assistance email
+0.6951177493505237,Medium Risk,Offer service bundle discount
+0.6950744252939439,Medium Risk,Offer service bundle discount
+0.6947262809480056,Medium Risk,Send onboarding assistance email
+0.6947029345773532,Medium Risk,Send onboarding assistance email
+0.6944567256048583,Medium Risk,Send onboarding assistance email
+0.6941507044009161,Medium Risk,Offer service bundle discount
+0.6941314757302501,Medium Risk,Offer service bundle discount
+0.6939350057149131,Medium Risk,Offer service bundle discount
+0.6938437018488659,Medium Risk,Offer service bundle discount
+0.6934080122836415,Medium Risk,Send onboarding assistance email
+0.6932512237534728,Medium Risk,Send onboarding assistance email
+0.6922829982754538,Medium Risk,Offer service bundle discount
+0.6922783760727775,Medium Risk,Send onboarding assistance email
+0.6922720627693547,Medium Risk,Send onboarding assistance email
+0.6921486698790492,Medium Risk,Offer service bundle discount
+0.692114660273358,Medium Risk,Send onboarding assistance email
+0.6918458799083589,Medium Risk,Send onboarding assistance email
+0.6917716806543749,Medium Risk,Offer service bundle discount
+0.6913887246550781,Medium Risk,Send onboarding assistance email
+0.6913855131589947,Medium Risk,Offer service bundle discount
+0.6907515754357363,Medium Risk,Offer service bundle discount
+0.6907067679317683,Medium Risk,Offer service bundle discount
+0.6905302776885591,Medium Risk,Offer service bundle discount
+0.6905231927992267,Medium Risk,Send onboarding assistance email
+0.6905033464538949,Medium Risk,Send onboarding assistance email
+0.6904519823956154,Medium Risk,Offer service bundle discount
+0.6902198527249058,Medium Risk,Offer service bundle discount
+0.690035174430736,Medium Risk,Offer service bundle discount
+0.6900238838297067,Medium Risk,Send onboarding assistance email
+0.6899763900769648,Medium Risk,Send onboarding assistance email
+0.6897353430463401,Medium Risk,Send onboarding assistance email
+0.6895377295949833,Medium Risk,Offer service bundle discount
+0.6892345635333565,Medium Risk,Offer service bundle discount
+0.6892279526596898,Medium Risk,Offer service bundle discount
+0.6889874833355892,Medium Risk,Offer service bundle discount
+0.6883519826342516,Medium Risk,Offer service bundle discount
+0.6883240785026093,Medium Risk,Offer service bundle discount
+0.6875230592214063,Medium Risk,Send onboarding assistance email
+0.687191473931381,Medium Risk,Send onboarding assistance email
+0.6869420422136058,Medium Risk,Send onboarding assistance email
+0.6867600831202494,Medium Risk,Send onboarding assistance email
+0.6866896649477985,Medium Risk,Offer service bundle discount
+0.6865731869532002,Medium Risk,Send onboarding assistance email
+0.6865006432958495,Medium Risk,Offer service bundle discount
+0.686433300462825,Medium Risk,Offer service bundle discount
+0.6861250096637426,Medium Risk,Send onboarding assistance email
+0.685609509444346,Medium Risk,Send onboarding assistance email
+0.6855420723786704,Medium Risk,Send onboarding assistance email
+0.6851653721112992,Medium Risk,Offer service bundle discount
+0.6849291404428653,Medium Risk,Send onboarding assistance email
+0.6848415508967051,Medium Risk,Offer service bundle discount
+0.6842592496927448,Medium Risk,Offer service bundle discount
+0.6841587738479126,Medium Risk,Send onboarding assistance email
+0.6840903872048554,Medium Risk,Send onboarding assistance email
+0.6839636602805963,Medium Risk,Send onboarding assistance email
+0.6839631264884447,Medium Risk,Offer service bundle discount
+0.6839161157480472,Medium Risk,Offer service bundle discount
+0.6836520505515512,Medium Risk,Send onboarding assistance email
+0.6834776845221876,Medium Risk,Send onboarding assistance email
+0.6834076373140552,Medium Risk,Send onboarding assistance email
+0.6833927481508524,Medium Risk,Send onboarding assistance email
+0.6833861878916286,Medium Risk,Send onboarding assistance email
+0.6832928440319824,Medium Risk,Offer service bundle discount
+0.682928793302292,Medium Risk,Offer service bundle discount
+0.6829264777598315,Medium Risk,Offer service bundle discount
+0.6828044979439066,Medium Risk,Offer service bundle discount
+0.682646309621325,Medium Risk,Offer service bundle discount
+0.6825632387637117,Medium Risk,Send onboarding assistance email
+0.6825204654329898,Medium Risk,Send onboarding assistance email
+0.6825081088787531,Medium Risk,Send onboarding assistance email
+0.6824064128310109,Medium Risk,Offer service bundle discount
+0.6823632039696761,Medium Risk,Offer service bundle discount
+0.6820486153946337,Medium Risk,Offer service bundle discount
+0.68178441969255,Medium Risk,Send onboarding assistance email
+0.681761920973952,Medium Risk,Send onboarding assistance email
+0.6813298728921015,Medium Risk,Offer service bundle discount
+0.6813170819085284,Medium Risk,Offer service bundle discount
+0.6811929864195121,Medium Risk,Send onboarding assistance email
+0.68110381897692,Medium Risk,Offer service bundle discount
+0.6807689502070922,Medium Risk,Offer service bundle discount
+0.6806248164987315,Medium Risk,Offer service bundle discount
+0.6805705162574509,Medium Risk,Send onboarding assistance email
+0.680520077243225,Medium Risk,Send onboarding assistance email
+0.6802597194393458,Medium Risk,Send onboarding assistance email
+0.6802597194393458,Medium Risk,Send onboarding assistance email
+0.6799594476124453,Medium Risk,Offer service bundle discount
+0.679842809975175,Medium Risk,Send onboarding assistance email
+0.6796122710323786,Medium Risk,Send onboarding assistance email
+0.6795908986431464,Medium Risk,Send onboarding assistance email
+0.6788504731165185,Medium Risk,Offer service bundle discount
+0.6788134643949644,Medium Risk,Offer service bundle discount
+0.6783222157974893,Medium Risk,Offer service bundle discount
+0.6780561719985069,Medium Risk,Offer service bundle discount
+0.677834012819662,Medium Risk,Offer service bundle discount
+0.6778316950030384,Medium Risk,Offer service bundle discount
+0.6777827805358201,Medium Risk,Send onboarding assistance email
+0.6774594180839748,Medium Risk,Send onboarding assistance email
+0.6772129123269582,Medium Risk,Send onboarding assistance email
+0.6768044297007866,Medium Risk,Send onboarding assistance email
+0.6767948069472007,Medium Risk,Send onboarding assistance email
+0.6765847692271764,Medium Risk,Offer service bundle discount
+0.6765083892690616,Medium Risk,Offer service bundle discount
+0.6763970020872064,Medium Risk,Send onboarding assistance email
+0.6763553141568243,Medium Risk,Offer service bundle discount
+0.6760834237473935,Medium Risk,Offer service bundle discount
+0.6760014373096656,Medium Risk,Offer service bundle discount
+0.6756693286744495,Medium Risk,Offer service bundle discount
+0.6754729286919076,Medium Risk,Offer service bundle discount
+0.6751609020280784,Medium Risk,Send onboarding assistance email
+0.6742351410986935,Medium Risk,Offer service bundle discount
+0.6740943358204177,Medium Risk,Send onboarding assistance email
+0.6740253545909484,Medium Risk,Offer service bundle discount
+0.6739847154972927,Medium Risk,Offer service bundle discount
+0.6734230996935164,Medium Risk,Offer service bundle discount
+0.6732215356260128,Medium Risk,Offer service bundle discount
+0.6730350061479965,Medium Risk,Offer service bundle discount
+0.672850343506093,Medium Risk,Send onboarding assistance email
+0.6725656286783961,Medium Risk,Send onboarding assistance email
+0.672383037751732,Medium Risk,Offer service bundle discount
+0.6723264165931792,Medium Risk,Offer service bundle discount
+0.6720752457778859,Medium Risk,Send onboarding assistance email
+0.6715614117754783,Medium Risk,Offer service bundle discount
+0.6712901902105515,Medium Risk,Send onboarding assistance email
+0.6711395573472422,Medium Risk,Send onboarding assistance email
+0.6710471269030975,Medium Risk,Send onboarding assistance email
+0.6710048366853064,Medium Risk,Offer service bundle discount
+0.6709736596102389,Medium Risk,Send onboarding assistance email
+0.670962617360621,Medium Risk,Offer service bundle discount
+0.6707916401901923,Medium Risk,Send onboarding assistance email
+0.6705648003432785,Medium Risk,Offer service bundle discount
+0.6705533627768459,Medium Risk,Send onboarding assistance email
+0.6702975346814892,Medium Risk,Offer service bundle discount
+0.6700855320595135,Medium Risk,Send onboarding assistance email
+0.6699679541832656,Medium Risk,Offer service bundle discount
+0.6695749656956537,Medium Risk,Offer service bundle discount
+0.6693708584112744,Medium Risk,Offer service bundle discount
+0.6693093297295836,Medium Risk,Send onboarding assistance email
+0.6690901727043436,Medium Risk,Offer service bundle discount
+0.6690363997474769,Medium Risk,Send onboarding assistance email
+0.6688047864113186,Medium Risk,Offer service bundle discount
+0.668676746478902,Medium Risk,Offer service bundle discount
+0.6685427058423733,Medium Risk,Offer service bundle discount
+0.6678925701631327,Medium Risk,Offer service bundle discount
+0.6678284567841495,Medium Risk,Offer service bundle discount
+0.6676523984053676,Medium Risk,Offer service bundle discount
+0.6673966744546098,Medium Risk,Send onboarding assistance email
+0.6673243836660336,Medium Risk,Offer service bundle discount
+0.6671001447892502,Medium Risk,Offer service bundle discount
+0.6670800855900789,Medium Risk,Offer service bundle discount
+0.6670746422813323,Medium Risk,Offer service bundle discount
+0.6668735576038897,Medium Risk,Offer service bundle discount
+0.6666111482318406,Medium Risk,Offer service bundle discount
+0.6665238330814869,Medium Risk,Offer service bundle discount
+0.6660509908465534,Medium Risk,Offer service bundle discount
+0.6659747786957966,Medium Risk,Send onboarding assistance email
+0.665958880113667,Medium Risk,Send onboarding assistance email
+0.6658335302239061,Medium Risk,Send onboarding assistance email
+0.6657977768068954,Medium Risk,Offer service bundle discount
+0.6657142878515907,Medium Risk,Offer service bundle discount
+0.6656131767053093,Medium Risk,Offer service bundle discount
+0.6653465024607544,Medium Risk,Offer service bundle discount
+0.6651604181507874,Medium Risk,Offer service bundle discount
+0.664763898056921,Medium Risk,Send onboarding assistance email
+0.6642693018536302,Medium Risk,Offer service bundle discount
+0.6641818694445207,Medium Risk,Offer service bundle discount
+0.6641328927855515,Medium Risk,Offer service bundle discount
+0.6640260470754825,Medium Risk,Offer service bundle discount
+0.6638994869568953,Medium Risk,Send onboarding assistance email
+0.6632766893978751,Medium Risk,Send onboarding assistance email
+0.6624212229112186,Medium Risk,Offer service bundle discount
+0.661789317900529,Medium Risk,Offer service bundle discount
+0.6614249642812922,Medium Risk,Offer service bundle discount
+0.6614126228117467,Medium Risk,Offer service bundle discount
+0.6611008213370263,Medium Risk,Send onboarding assistance email
+0.6609097638699215,Medium Risk,Send onboarding assistance email
+0.6606741946410977,Medium Risk,Offer service bundle discount
+0.6604318401161885,Medium Risk,Offer service bundle discount
+0.6604080942537872,Medium Risk,Send onboarding assistance email
+0.6603478891391618,Medium Risk,Offer service bundle discount
+0.6598682026887819,Medium Risk,Offer service bundle discount
+0.6597059093326156,Medium Risk,Send onboarding assistance email
+0.6595516814889464,Medium Risk,Offer service bundle discount
+0.6592563996001874,Medium Risk,Offer service bundle discount
+0.6592116250673912,Medium Risk,Send onboarding assistance email
+0.6590711415417313,Medium Risk,Send onboarding assistance email
+0.6587829297145197,Medium Risk,Send onboarding assistance email
+0.6587696474654742,Medium Risk,Send onboarding assistance email
+0.6585571103889771,Medium Risk,Offer service bundle discount
+0.6582989562600976,Medium Risk,Offer service bundle discount
+0.658187652236566,Medium Risk,Send onboarding assistance email
+0.658102303182114,Medium Risk,Offer service bundle discount
+0.6576024802764447,Medium Risk,Offer service bundle discount
+0.6575708752358684,Medium Risk,Offer service bundle discount
+0.6573452835201029,Medium Risk,Offer service bundle discount
+0.6570999332980821,Medium Risk,Offer service bundle discount
+0.6570120367557709,Medium Risk,Offer service bundle discount
+0.6568301982052935,Medium Risk,Send onboarding assistance email
+0.6566606268597246,Medium Risk,Offer service bundle discount
+0.656655430223218,Medium Risk,Send onboarding assistance email
+0.6565715184003293,Medium Risk,Send onboarding assistance email
+0.6563495643351089,Medium Risk,Offer service bundle discount
+0.6563142494040555,Medium Risk,Send onboarding assistance email
+0.6562181341909025,Medium Risk,Offer service bundle discount
+0.6560065774515847,Medium Risk,Offer service bundle discount
+0.6557943037318982,Medium Risk,Offer service bundle discount
+0.6556949710003573,Medium Risk,Send onboarding assistance email
+0.6556949710003573,Medium Risk,Send onboarding assistance email
+0.6556949710003573,Medium Risk,Send onboarding assistance email
+0.6551598717023986,Medium Risk,Offer service bundle discount
+0.6550175620388594,Medium Risk,Offer service bundle discount
+0.6545314222266342,Medium Risk,Offer service bundle discount
+0.6542473632578879,Medium Risk,Offer service bundle discount
+0.6538388257767324,Medium Risk,Offer service bundle discount
+0.6537835701450967,Medium Risk,Offer service bundle discount
+0.6537708552430423,Medium Risk,Offer service bundle discount
+0.653428724323802,Medium Risk,Offer service bundle discount
+0.6530114411070074,Medium Risk,Send onboarding assistance email
+0.6529403477641561,Medium Risk,Offer service bundle discount
+0.6526642728561883,Medium Risk,Send onboarding assistance email
+0.6526642728561883,Medium Risk,Send onboarding assistance email
+0.6526294286544666,Medium Risk,Offer service bundle discount
+0.6526241747333771,Medium Risk,Offer service bundle discount
+0.6526037384871901,Medium Risk,Send onboarding assistance email
+0.6514754173283809,Medium Risk,Offer service bundle discount
+0.6514280308048379,Medium Risk,Offer service bundle discount
+0.6512978232912725,Medium Risk,Offer service bundle discount
+0.6511907964135463,Medium Risk,Send onboarding assistance email
+0.6511864830069422,Medium Risk,Send onboarding assistance email
+0.6509747443946233,Medium Risk,Send onboarding assistance email
+0.6509119164568482,Medium Risk,Offer service bundle discount
+0.6507987440722118,Medium Risk,Send onboarding assistance email
+0.6507449085104123,Medium Risk,Offer service bundle discount
+0.6500420408903593,Medium Risk,Send onboarding assistance email
+0.6497802645231269,Medium Risk,Send onboarding assistance email
+0.6496153835536514,Medium Risk,Send onboarding assistance email
+0.6495632613930512,Medium Risk,Send onboarding assistance email
+0.6495010928160297,Medium Risk,Offer service bundle discount
+0.649492035181825,Medium Risk,Send onboarding assistance email
+0.6490807510420634,Medium Risk,Offer service bundle discount
+0.6488903179778345,Medium Risk,Offer service bundle discount
+0.6488860037197374,Medium Risk,Offer service bundle discount
+0.6488733157306379,Medium Risk,Send onboarding assistance email
+0.6485638096054755,Medium Risk,Send onboarding assistance email
+0.6485416457037987,Medium Risk,Offer service bundle discount
+0.6484178656101703,Medium Risk,Offer service bundle discount
+0.648211096647796,Medium Risk,Send onboarding assistance email
+0.6481437149290472,Medium Risk,Send onboarding assistance email
+0.6479588036695438,Medium Risk,Offer service bundle discount
+0.6478124613811677,Medium Risk,Send onboarding assistance email
+0.6476236175445983,Medium Risk,Send onboarding assistance email
+0.6476236175445983,Medium Risk,Send onboarding assistance email
+0.6476236175445983,Medium Risk,Send onboarding assistance email
+0.6476218157860676,Medium Risk,Offer service bundle discount
+0.6473556334176896,Medium Risk,Offer service bundle discount
+0.6473416618485046,Medium Risk,Offer service bundle discount
+0.6470376917818981,Medium Risk,Offer service bundle discount
+0.6469274244654762,Medium Risk,Offer service bundle discount
+0.6469091497558506,Medium Risk,Send onboarding assistance email
+0.6468086020949109,Medium Risk,Offer service bundle discount
+0.6467250440683715,Medium Risk,Offer service bundle discount
+0.6467157085545959,Medium Risk,Send onboarding assistance email
+0.646568947840395,Medium Risk,Send onboarding assistance email
+0.646540482530103,Medium Risk,Send onboarding assistance email
+0.646296971896317,Medium Risk,Offer service bundle discount
+0.6461904537752674,Medium Risk,Offer service bundle discount
+0.6461122053249774,Medium Risk,Send onboarding assistance email
+0.646024256977475,Medium Risk,Offer service bundle discount
+0.6458258492552573,Medium Risk,Offer service bundle discount
+0.6458086282789318,Medium Risk,Send onboarding assistance email
+0.6455520884724089,Medium Risk,Offer service bundle discount
+0.6453566795966565,Medium Risk,Send onboarding assistance email
+0.6452627261235739,Medium Risk,Offer service bundle discount
+0.6450338364315726,Medium Risk,Offer service bundle discount
+0.6450091291471169,Medium Risk,Offer service bundle discount
+0.6446372707271506,Medium Risk,Offer service bundle discount
+0.6444046495778548,Medium Risk,Offer service bundle discount
+0.6443796062224801,Medium Risk,Offer service bundle discount
+0.6441933165386396,Medium Risk,Send onboarding assistance email
+0.644183533995824,Medium Risk,Send onboarding assistance email
+0.6440898865309892,Medium Risk,Offer service bundle discount
+0.6438320729182508,Medium Risk,Offer service bundle discount
+0.6437636126437902,Medium Risk,Offer service bundle discount
+0.6437165243932647,Medium Risk,Offer service bundle discount
+0.6436837138854582,Medium Risk,Send onboarding assistance email
+0.6434787693764195,Medium Risk,Send onboarding assistance email
+0.643321097336375,Medium Risk,Send onboarding assistance email
+0.6432635113240456,Medium Risk,Offer service bundle discount
+0.6429036500946879,Medium Risk,Send onboarding assistance email
+0.6422689536169173,Medium Risk,Offer service bundle discount
+0.6421251761527635,Medium Risk,Send onboarding assistance email
+0.6419152971664162,Medium Risk,Offer service bundle discount
+0.641700035546207,Medium Risk,Offer service bundle discount
+0.6415721112533306,Medium Risk,Send onboarding assistance email
+0.641282676808901,Medium Risk,Offer service bundle discount
+0.6411045976353736,Medium Risk,Offer service bundle discount
+0.6408931054190949,Medium Risk,Send onboarding assistance email
+0.6408131990482887,Medium Risk,Offer service bundle discount
+0.6406349420167605,Medium Risk,Offer service bundle discount
+0.6406124508262778,Medium Risk,Offer service bundle discount
+0.6405607518761256,Medium Risk,Send onboarding assistance email
+0.6399973536005106,Medium Risk,Offer service bundle discount
+0.6397996852716548,Medium Risk,Send onboarding assistance email
+0.6397483978461497,Medium Risk,Send onboarding assistance email
+0.6397065273409058,Medium Risk,Offer service bundle discount
+0.6393291981164313,Medium Risk,Send onboarding assistance email
+0.6390682299257084,Medium Risk,Send onboarding assistance email
+0.639043134465497,Medium Risk,Offer service bundle discount
+0.6388244780184856,Medium Risk,Offer service bundle discount
+0.6387129844570544,Medium Risk,Send onboarding assistance email
+0.6387092889554417,Medium Risk,Offer service bundle discount
+0.6386391057038613,Medium Risk,Offer service bundle discount
+0.6380041649718635,Medium Risk,Send onboarding assistance email
+0.637869638695711,Medium Risk,Offer service bundle discount
+0.6378559879655153,Medium Risk,Send onboarding assistance email
+0.6375983753501628,Medium Risk,Send onboarding assistance email
+0.6374337412359005,Medium Risk,Offer service bundle discount
+0.6373384308230278,Medium Risk,Offer service bundle discount
+0.6372107745094774,Medium Risk,Offer service bundle discount
+0.637190573543816,Medium Risk,Send onboarding assistance email
+0.6371207397786871,Medium Risk,Offer service bundle discount
+0.6366690425023451,Medium Risk,Offer service bundle discount
+0.636650770262448,Medium Risk,Offer service bundle discount
+0.6366165228899188,Medium Risk,Send onboarding assistance email
+0.6365910539688467,Medium Risk,Offer service bundle discount
+0.636587048821093,Medium Risk,Offer service bundle discount
+0.6365428101145422,Medium Risk,Offer service bundle discount
+0.6361373635775796,Medium Risk,Send onboarding assistance email
+0.636056847495457,Medium Risk,Send onboarding assistance email
+0.6359136135477961,Medium Risk,Offer service bundle discount
+0.6352456970061737,Medium Risk,Offer service bundle discount
+0.6345290200948248,Medium Risk,Offer service bundle discount
+0.634412557839582,Medium Risk,Offer service bundle discount
+0.6342617875604051,Medium Risk,Offer service bundle discount
+0.6340975589701652,Medium Risk,Offer service bundle discount
+0.6338604624757812,Medium Risk,Offer service bundle discount
+0.6338224807782421,Medium Risk,Offer service bundle discount
+0.6337123139142716,Medium Risk,Offer service bundle discount
+0.6337001296702038,Medium Risk,Offer service bundle discount
+0.6335198575870308,Medium Risk,Offer service bundle discount
+0.6331431079881262,Medium Risk,Offer service bundle discount
+0.633095254900702,Medium Risk,Offer service bundle discount
+0.633073339334102,Medium Risk,Offer service bundle discount
+0.6328009841282808,Medium Risk,Send onboarding assistance email
+0.6324098602647736,Medium Risk,Offer service bundle discount
+0.6323314556858144,Medium Risk,Send onboarding assistance email
+0.6318316655708249,Medium Risk,Send onboarding assistance email
+0.6314376114971983,Medium Risk,Offer service bundle discount
+0.6312306768365349,Medium Risk,Offer service bundle discount
+0.6311774076492899,Medium Risk,Send onboarding assistance email
+0.6311576517199188,Medium Risk,Offer service bundle discount
+0.6311068522669784,Medium Risk,Send onboarding assistance email
+0.6305554247798975,Medium Risk,Offer service bundle discount
+0.6301905787556334,Medium Risk,Send onboarding assistance email
+0.6299988437851344,Medium Risk,Offer service bundle discount
+0.6298390241984047,Medium Risk,Offer service bundle discount
+0.629752981415856,Medium Risk,Offer service bundle discount
+0.6296612103427707,Medium Risk,Offer service bundle discount
+0.6294623460738407,Medium Risk,Offer service bundle discount
+0.6289246267335077,Medium Risk,Offer service bundle discount
+0.6283344926752138,Medium Risk,Offer service bundle discount
+0.6279859739914095,Medium Risk,Send onboarding assistance email
+0.6278760763884663,Medium Risk,Offer service bundle discount
+0.6277965267969947,Medium Risk,Send onboarding assistance email
+0.627697193844829,Medium Risk,Send onboarding assistance email
+0.6274683588641053,Medium Risk,Offer service bundle discount
+0.6273147062507715,Medium Risk,Send onboarding assistance email
+0.6271531075448882,Medium Risk,Send onboarding assistance email
+0.6268659138360909,Medium Risk,Offer service bundle discount
+0.6267021586396949,Medium Risk,Send onboarding assistance email
+0.6264058133230093,Medium Risk,Offer service bundle discount
+0.6262099926946775,Medium Risk,Send onboarding assistance email
+0.6260315260905139,Medium Risk,Offer service bundle discount
+0.6260067354076766,Medium Risk,Offer service bundle discount
+0.6260064346345986,Medium Risk,Offer service bundle discount
+0.6259212153862485,Medium Risk,Send onboarding assistance email
+0.6258854684444998,Medium Risk,Offer service bundle discount
+0.6257641404988812,Medium Risk,Offer service bundle discount
+0.6256388931492624,Medium Risk,Offer service bundle discount
+0.6255954522176406,Medium Risk,Send onboarding assistance email
+0.6255596221773386,Medium Risk,Offer service bundle discount
+0.6251723465782131,Medium Risk,Send onboarding assistance email
+0.6251379502507993,Medium Risk,Offer service bundle discount
+0.6244455920603916,Medium Risk,Offer service bundle discount
+0.6234603518866113,Medium Risk,Offer service bundle discount
+0.6234523965894724,Medium Risk,Send onboarding assistance email
+0.6232969886521493,Medium Risk,Send onboarding assistance email
+0.6232969886521493,Medium Risk,Send onboarding assistance email
+0.623237190709535,Medium Risk,Send onboarding assistance email
+0.6232106815965143,Medium Risk,Offer service bundle discount
+0.6228180266307595,Medium Risk,Offer service bundle discount
+0.6226510633048639,Medium Risk,Offer service bundle discount
+0.6224809260307008,Medium Risk,Offer service bundle discount
+0.6222968892029332,Medium Risk,Send onboarding assistance email
+0.6222868512486159,Medium Risk,Offer service bundle discount
+0.6221826150271417,Medium Risk,Send onboarding assistance email
+0.6221131613206365,Medium Risk,Offer service bundle discount
+0.6219561841757071,Medium Risk,Offer service bundle discount
+0.6218082610213859,Medium Risk,Send onboarding assistance email
+0.6214357745725613,Medium Risk,Send onboarding assistance email
+0.6209960811804223,Medium Risk,Offer service bundle discount
+0.6209766407888342,Medium Risk,Offer service bundle discount
+0.6204565383272821,Medium Risk,Offer service bundle discount
+0.6201923700037296,Medium Risk,Offer service bundle discount
+0.6200286421628577,Medium Risk,Send onboarding assistance email
+0.6200286421628577,Medium Risk,Send onboarding assistance email
+0.6199815987574795,Medium Risk,Offer service bundle discount
+0.6197263506785213,Medium Risk,Offer service bundle discount
+0.6196915137687022,Medium Risk,Offer service bundle discount
+0.6196181286284901,Medium Risk,Offer service bundle discount
+0.619501180009274,Medium Risk,Offer service bundle discount
+0.619455611861781,Medium Risk,Offer service bundle discount
+0.6193471457343505,Medium Risk,Send onboarding assistance email
+0.6192305407834376,Medium Risk,Offer service bundle discount
+0.6189057820594127,Medium Risk,Offer service bundle discount
+0.6188214381124285,Medium Risk,Offer service bundle discount
+0.6187488607581827,Medium Risk,Offer service bundle discount
+0.6187480162443666,Medium Risk,Send onboarding assistance email
+0.6185572592422224,Medium Risk,Send onboarding assistance email
+0.6183451774030841,Medium Risk,Send onboarding assistance email
+0.6179525283449047,Medium Risk,Send onboarding assistance email
+0.6170312868357759,Medium Risk,Send onboarding assistance email
+0.6168612702205132,Medium Risk,Offer service bundle discount
+0.6168283377700248,Medium Risk,Offer service bundle discount
+0.6167276000291417,Medium Risk,Offer service bundle discount
+0.6162394789826962,Medium Risk,Offer service bundle discount
+0.616066262281082,Medium Risk,Offer service bundle discount
+0.6159724423342228,Medium Risk,Offer service bundle discount
+0.6156048040314158,Medium Risk,Offer service bundle discount
+0.6156042600317643,Medium Risk,Send onboarding assistance email
+0.6156042600317643,Medium Risk,Send onboarding assistance email
+0.6156042600317643,Medium Risk,Send onboarding assistance email
+0.6156042600317643,Medium Risk,Send onboarding assistance email
+0.6154511154237631,Medium Risk,Offer service bundle discount
+0.6153075983010438,Medium Risk,Send onboarding assistance email
+0.6152418160144741,Medium Risk,Send onboarding assistance email
+0.6152311096084203,Medium Risk,Offer service bundle discount
+0.6152022264762639,Medium Risk,Offer service bundle discount
+0.6151739698797881,Medium Risk,Send onboarding assistance email
+0.6150920308440723,Medium Risk,Offer service bundle discount
+0.6146393061103603,Medium Risk,Send onboarding assistance email
+0.6145954737673511,Medium Risk,Offer service bundle discount
+0.6145746371534483,Medium Risk,Offer service bundle discount
+0.6145226790642664,Medium Risk,Send onboarding assistance email
+0.614342654469305,Medium Risk,Send onboarding assistance email
+0.6143294816701274,Medium Risk,Offer service bundle discount
+0.6141225818863834,Medium Risk,Offer service bundle discount
+0.6140600815274541,Medium Risk,Send onboarding assistance email
+0.6140519941672827,Medium Risk,Offer service bundle discount
+0.613120589077675,Medium Risk,Send onboarding assistance email
+0.612930355052398,Medium Risk,Offer service bundle discount
+0.6118800523813895,Medium Risk,Offer service bundle discount
+0.6116032432101546,Medium Risk,Offer service bundle discount
+0.6113185034718751,Medium Risk,Send onboarding assistance email
+0.6106191538671523,Medium Risk,Send onboarding assistance email
+0.6105611150108268,Medium Risk,Offer service bundle discount
+0.6103983059126361,Medium Risk,Offer service bundle discount
+0.6103462389360773,Medium Risk,Send onboarding assistance email
+0.6103328099154455,Medium Risk,Send onboarding assistance email
+0.610277111052346,Medium Risk,Offer service bundle discount
+0.6100942034190678,Medium Risk,Offer service bundle discount
+0.6100306847253443,Medium Risk,Offer service bundle discount
+0.6095989511190226,Medium Risk,Offer service bundle discount
+0.6094777343607525,Medium Risk,Offer service bundle discount
+0.6093902469946084,Medium Risk,Offer service bundle discount
+0.6086067074148253,Medium Risk,Send onboarding assistance email
+0.6085390349044183,Medium Risk,Offer service bundle discount
+0.608384504993597,Medium Risk,Offer service bundle discount
+0.6078115832856608,Medium Risk,Offer service bundle discount
+0.6077436220374296,Medium Risk,Offer service bundle discount
+0.6074773920288257,Medium Risk,Offer service bundle discount
+0.6073867108635167,Medium Risk,Offer service bundle discount
+0.6071068213062221,Medium Risk,Offer service bundle discount
+0.6066115978812896,Medium Risk,Offer service bundle discount
+0.6064489117234917,Medium Risk,Send onboarding assistance email
+0.6063146057941715,Medium Risk,Offer service bundle discount
+0.6060647761183798,Medium Risk,Offer service bundle discount
+0.6057299540684782,Medium Risk,Send onboarding assistance email
+0.6056682029639879,Medium Risk,Send onboarding assistance email
+0.6056682029639879,Medium Risk,Send onboarding assistance email
+0.6056213175863819,Medium Risk,Offer service bundle discount
+0.6052856574480058,Medium Risk,Offer service bundle discount
+0.605112998687845,Medium Risk,Offer service bundle discount
+0.6050315867543591,Medium Risk,Offer service bundle discount
+0.6050279571230046,Medium Risk,Offer service bundle discount
+0.604753490846481,Medium Risk,Offer service bundle discount
+0.6046566783309466,Medium Risk,Offer service bundle discount
+0.6043901548421652,Medium Risk,Offer service bundle discount
+0.6043825279460148,Medium Risk,Offer service bundle discount
+0.6039532582973343,Medium Risk,Offer service bundle discount
+0.6036611897809333,Medium Risk,Send onboarding assistance email
+0.6036584539460271,Medium Risk,Send onboarding assistance email
+0.6036473480551908,Medium Risk,Offer service bundle discount
+0.6036469756437025,Medium Risk,Offer service bundle discount
+0.6034032553962679,Medium Risk,Send onboarding assistance email
+0.6033358105804753,Medium Risk,Send onboarding assistance email
+0.6029442034548979,Medium Risk,Offer service bundle discount
+0.6029217213477688,Medium Risk,Offer service bundle discount
+0.602865065934705,Medium Risk,Offer service bundle discount
+0.6027551615406476,Medium Risk,Send onboarding assistance email
+0.6027551615406476,Medium Risk,Send onboarding assistance email
+0.6026021357636884,Medium Risk,Offer service bundle discount
+0.6023539781398882,Medium Risk,Offer service bundle discount
+0.6022997097513604,Medium Risk,Send onboarding assistance email
+0.6019401568986966,Medium Risk,Offer service bundle discount
+0.6019247635022231,Medium Risk,Send onboarding assistance email
+0.6017223136393072,Medium Risk,Send onboarding assistance email
+0.6015401115745903,Medium Risk,Offer service bundle discount
+0.6014464795020517,Medium Risk,Send onboarding assistance email
+0.6012668355868436,Medium Risk,Offer service bundle discount
+0.6012461050820734,Medium Risk,Send onboarding assistance email
+0.6008898943443056,Medium Risk,Offer service bundle discount
+0.6007771026102159,Medium Risk,Offer service bundle discount
+0.6007619669943588,Medium Risk,Send onboarding assistance email
+0.6006799644610178,Medium Risk,Send onboarding assistance email
+0.6004350277754071,Medium Risk,Offer service bundle discount
+0.600394716682063,Medium Risk,Offer service bundle discount
+0.6003647562150828,Medium Risk,Send onboarding assistance email
+0.600037082041249,Medium Risk,Send onboarding assistance email
+0.600023011959665,Medium Risk,Offer service bundle discount
+0.5997325800262323,Medium Risk,Send re-engagement email
+0.5995724524665629,Medium Risk,Send re-engagement email
+0.5994683891535559,Medium Risk,Send re-engagement email
+0.5994659251479555,Medium Risk,Send re-engagement email
+0.5994584557944207,Medium Risk,Send re-engagement email
+0.5993392383121623,Medium Risk,Send re-engagement email
+0.5992727965996262,Medium Risk,Send re-engagement email
+0.5991072306678962,Medium Risk,Send re-engagement email
+0.5987353992069165,Medium Risk,Send re-engagement email
+0.5985316781237442,Medium Risk,Send re-engagement email
+0.5984078490906407,Medium Risk,Send re-engagement email
+0.5981611059804703,Medium Risk,Send re-engagement email
+0.5976574728265799,Medium Risk,Send re-engagement email
+0.597442047813245,Medium Risk,Send re-engagement email
+0.5972910204010367,Medium Risk,Send re-engagement email
+0.5971923355025098,Medium Risk,Send re-engagement email
+0.5971145245545444,Medium Risk,Send re-engagement email
+0.5971145245545444,Medium Risk,Send re-engagement email
+0.5971145245545444,Medium Risk,Send re-engagement email
+0.5970286658980775,Medium Risk,Send re-engagement email
+0.5967361141350278,Medium Risk,Send re-engagement email
+0.5966889211725046,Medium Risk,Send re-engagement email
+0.5966221071129012,Medium Risk,Send re-engagement email
+0.5965416772054832,Medium Risk,Send re-engagement email
+0.5965184416347545,Medium Risk,Send re-engagement email
+0.5960400867084992,Medium Risk,Send re-engagement email
+0.5956055692566643,Medium Risk,Send re-engagement email
+0.5952787455037774,Medium Risk,Send re-engagement email
+0.5950840191340113,Medium Risk,Send re-engagement email
+0.5949692183269505,Medium Risk,Send re-engagement email
+0.594730398773254,Medium Risk,Send re-engagement email
+0.5946398263734975,Medium Risk,Send re-engagement email
+0.5945104918872,Medium Risk,Send re-engagement email
+0.5939184392885078,Medium Risk,Send re-engagement email
+0.5938850727555409,Medium Risk,Send re-engagement email
+0.5936643524698197,Medium Risk,Send re-engagement email
+0.5936547699415909,Medium Risk,Send re-engagement email
+0.5935514184971986,Medium Risk,Send re-engagement email
+0.5935085427400654,Medium Risk,Send re-engagement email
+0.5934870749229545,Medium Risk,Send re-engagement email
+0.5934554414268296,Medium Risk,Send re-engagement email
+0.5934040497899564,Medium Risk,Send re-engagement email
+0.5933289787045122,Medium Risk,Send re-engagement email
+0.5933282148000126,Medium Risk,Send re-engagement email
+0.5929545536014527,Medium Risk,Send re-engagement email
+0.5928841846782633,Medium Risk,Send re-engagement email
+0.5928211403152545,Medium Risk,Send re-engagement email
+0.5926740755140492,Medium Risk,Send re-engagement email
+0.5921521383201034,Medium Risk,Send re-engagement email
+0.5921400968464954,Medium Risk,Send re-engagement email
+0.5920733521477534,Medium Risk,Send re-engagement email
+0.5918629284505189,Medium Risk,Send re-engagement email
+0.5917976821906679,Medium Risk,Send re-engagement email
+0.5915506997426953,Medium Risk,Send re-engagement email
+0.5915170475394155,Medium Risk,Send re-engagement email
+0.5914417112051223,Medium Risk,Send re-engagement email
+0.5913410223050354,Medium Risk,Send re-engagement email
+0.5913150693352683,Medium Risk,Send re-engagement email
+0.5910657290727129,Medium Risk,Send re-engagement email
+0.5909774771508249,Medium Risk,Send re-engagement email
+0.5908696697454989,Medium Risk,Send re-engagement email
+0.5907570468201915,Medium Risk,Send re-engagement email
+0.5904710049534129,Medium Risk,Send re-engagement email
+0.5900583893526147,Medium Risk,Send re-engagement email
+0.589692974535175,Medium Risk,Send re-engagement email
+0.5894145249784095,Medium Risk,Send re-engagement email
+0.5893191606885158,Medium Risk,Send re-engagement email
+0.589222686609793,Medium Risk,Send re-engagement email
+0.5892016788491232,Medium Risk,Send re-engagement email
+0.589189864459133,Medium Risk,Send re-engagement email
+0.5891185837557257,Medium Risk,Send re-engagement email
+0.5889936880401662,Medium Risk,Send re-engagement email
+0.5885475992977289,Medium Risk,Send re-engagement email
+0.5879229958121079,Medium Risk,Send re-engagement email
+0.5878813219069627,Medium Risk,Send re-engagement email
+0.5877868697080129,Medium Risk,Send re-engagement email
+0.5876796584752874,Medium Risk,Send re-engagement email
+0.5873614070595594,Medium Risk,Send re-engagement email
+0.5872777937135041,Medium Risk,Send re-engagement email
+0.5870901133530286,Medium Risk,Send re-engagement email
+0.5869582501337639,Medium Risk,Send re-engagement email
+0.5868749195757085,Medium Risk,Send re-engagement email
+0.5866515652374316,Medium Risk,Send re-engagement email
+0.5863592814312816,Medium Risk,Send re-engagement email
+0.5863569651788832,Medium Risk,Send re-engagement email
+0.586119670673773,Medium Risk,Send re-engagement email
+0.5860674386907259,Medium Risk,Send re-engagement email
+0.5860555636709104,Medium Risk,Send re-engagement email
+0.5859295005824865,Medium Risk,Send re-engagement email
+0.5856400957361588,Medium Risk,Send re-engagement email
+0.5854088378926429,Medium Risk,Send re-engagement email
+0.5852373732540828,Medium Risk,Send re-engagement email
+0.5849812904297491,Medium Risk,Send re-engagement email
+0.5849471311359355,Medium Risk,Send re-engagement email
+0.5849384563583192,Medium Risk,Send re-engagement email
+0.5848428373957362,Medium Risk,Send re-engagement email
+0.5847213516327308,Medium Risk,Send re-engagement email
+0.584660304616394,Medium Risk,Send re-engagement email
+0.584568136994465,Medium Risk,Send re-engagement email
+0.5845587501767046,Medium Risk,Send re-engagement email
+0.5845587501767046,Medium Risk,Send re-engagement email
+0.5845587501767046,Medium Risk,Send re-engagement email
+0.5843171775577509,Medium Risk,Send re-engagement email
+0.5842273696760113,Medium Risk,Send re-engagement email
+0.5841422569139546,Medium Risk,Send re-engagement email
+0.584090143195868,Medium Risk,Send re-engagement email
+0.5840893362628017,Medium Risk,Send re-engagement email
+0.583768621705437,Medium Risk,Send re-engagement email
+0.583760365631837,Medium Risk,Send re-engagement email
+0.5833463636367184,Medium Risk,Send re-engagement email
+0.5833173518687392,Medium Risk,Send re-engagement email
+0.5831988357892253,Medium Risk,Send re-engagement email
+0.5829427040483995,Medium Risk,Send re-engagement email
+0.5828384093001782,Medium Risk,Send re-engagement email
+0.5827966732750361,Medium Risk,Send re-engagement email
+0.5822251616487947,Medium Risk,Send re-engagement email
+0.5822083876974287,Medium Risk,Send re-engagement email
+0.5820828737946553,Medium Risk,Send re-engagement email
+0.5819362041252688,Medium Risk,Send re-engagement email
+0.5819007734279258,Medium Risk,Send re-engagement email
+0.5815296984308979,Medium Risk,Send re-engagement email
+0.5808131403371672,Medium Risk,Send re-engagement email
+0.580545605519819,Medium Risk,Send re-engagement email
+0.5802685697545497,Medium Risk,Send re-engagement email
+0.5800471904547563,Medium Risk,Send re-engagement email
+0.5794434044586336,Medium Risk,Send re-engagement email
+0.5794434044586336,Medium Risk,Send re-engagement email
+0.579195102937494,Medium Risk,Send re-engagement email
+0.5791287719350237,Medium Risk,Send re-engagement email
+0.5787849644339956,Medium Risk,Send re-engagement email
+0.5783665620123091,Medium Risk,Send re-engagement email
+0.5781269997921811,Medium Risk,Send re-engagement email
+0.5779086334844874,Medium Risk,Send re-engagement email
+0.5776794970814348,Medium Risk,Send re-engagement email
+0.5773362003398868,Medium Risk,Send re-engagement email
+0.5769335900660414,Medium Risk,Send re-engagement email
+0.5768092781985935,Medium Risk,Send re-engagement email
+0.5764744433637518,Medium Risk,Send re-engagement email
+0.5763318151062741,Medium Risk,Send re-engagement email
+0.5761897584684481,Medium Risk,Send re-engagement email
+0.5760000391999107,Medium Risk,Send re-engagement email
+0.5757170191372272,Medium Risk,Send re-engagement email
+0.5756044535844874,Medium Risk,Send re-engagement email
+0.5755289453320842,Medium Risk,Send re-engagement email
+0.5754261232221576,Medium Risk,Send re-engagement email
+0.5753031120494607,Medium Risk,Send re-engagement email
+0.5752121870188573,Medium Risk,Send re-engagement email
+0.5750028198945175,Medium Risk,Send re-engagement email
+0.5744307550449484,Medium Risk,Send re-engagement email
+0.5735131298185876,Medium Risk,Send re-engagement email
+0.573477949653877,Medium Risk,Send re-engagement email
+0.5731455298174025,Medium Risk,Send re-engagement email
+0.5729339491604789,Medium Risk,Send re-engagement email
+0.5726315694250758,Medium Risk,Send re-engagement email
+0.572316119924796,Medium Risk,Send re-engagement email
+0.5722569698468223,Medium Risk,Send re-engagement email
+0.57193393628774,Medium Risk,Send re-engagement email
+0.5718719971349244,Medium Risk,Send re-engagement email
+0.5718298385281058,Medium Risk,Send re-engagement email
+0.5712726405017797,Medium Risk,Send re-engagement email
+0.5710269883221275,Medium Risk,Send re-engagement email
+0.5708731390161799,Medium Risk,Send re-engagement email
+0.5707498099321531,Medium Risk,Send re-engagement email
+0.5707111733673014,Medium Risk,Send re-engagement email
+0.5705143362015702,Medium Risk,Send re-engagement email
+0.5699531068654772,Medium Risk,Send re-engagement email
+0.5698147418755086,Medium Risk,Send re-engagement email
+0.5696226154039112,Medium Risk,Send re-engagement email
+0.5692637991683773,Medium Risk,Send re-engagement email
+0.5692622989903235,Medium Risk,Send re-engagement email
+0.569198225615379,Medium Risk,Send re-engagement email
+0.5691974461186274,Medium Risk,Send re-engagement email
+0.5691904497104258,Medium Risk,Send re-engagement email
+0.569025854618504,Medium Risk,Send re-engagement email
+0.5688166960863712,Medium Risk,Send re-engagement email
+0.5683223319955233,Medium Risk,Send re-engagement email
+0.5682611893519036,Medium Risk,Send re-engagement email
+0.5682206925042727,Medium Risk,Send re-engagement email
+0.5681903704122387,Medium Risk,Send re-engagement email
+0.568018635164266,Medium Risk,Send re-engagement email
+0.5679692070035379,Medium Risk,Send re-engagement email
+0.5679648382746434,Medium Risk,Send re-engagement email
+0.5679169993896097,Medium Risk,Send re-engagement email
+0.5674990111343887,Medium Risk,Send re-engagement email
+0.5672695680926444,Medium Risk,Send re-engagement email
+0.5672576606589189,Medium Risk,Send re-engagement email
+0.567043599132641,Medium Risk,Send re-engagement email
+0.5668071510868379,Medium Risk,Send re-engagement email
+0.5667220321315407,Medium Risk,Send re-engagement email
+0.5665963195293121,Medium Risk,Send re-engagement email
+0.5665624164042637,Medium Risk,Send re-engagement email
+0.5662921832185382,Medium Risk,Send re-engagement email
+0.566171795039781,Medium Risk,Send re-engagement email
+0.5653448201252269,Medium Risk,Send re-engagement email
+0.5650296199224482,Medium Risk,Send re-engagement email
+0.564983902504216,Medium Risk,Send re-engagement email
+0.5648859062731245,Medium Risk,Send re-engagement email
+0.5645992235357261,Medium Risk,Send re-engagement email
+0.5644350246447174,Medium Risk,Send re-engagement email
+0.5643941598195236,Medium Risk,Send re-engagement email
+0.5643678960010194,Medium Risk,Send re-engagement email
+0.5642899094705954,Medium Risk,Send re-engagement email
+0.5640766894516407,Medium Risk,Send re-engagement email
+0.5638911486925846,Medium Risk,Send re-engagement email
+0.5638059629055774,Medium Risk,Send re-engagement email
+0.5635866673010586,Medium Risk,Send re-engagement email
+0.5632683142365195,Medium Risk,Send re-engagement email
+0.563252132044862,Medium Risk,Send re-engagement email
+0.5623562921686165,Medium Risk,Send re-engagement email
+0.5621065189528432,Medium Risk,Send re-engagement email
+0.562088306304137,Medium Risk,Send re-engagement email
+0.5618874396325165,Medium Risk,Send re-engagement email
+0.5618073352531677,Medium Risk,Send re-engagement email
+0.5615233281135797,Medium Risk,Send re-engagement email
+0.5610283779141381,Medium Risk,Send re-engagement email
+0.5608922604565563,Medium Risk,Send re-engagement email
+0.560826508900066,Medium Risk,Send re-engagement email
+0.5607866408217381,Medium Risk,Send re-engagement email
+0.5605367263746607,Medium Risk,Send re-engagement email
+0.560080438462417,Medium Risk,Send re-engagement email
+0.5600209171726939,Medium Risk,Send re-engagement email
+0.5598516789433101,Medium Risk,Send re-engagement email
+0.5590523624930632,Medium Risk,Send re-engagement email
+0.5589848126999098,Medium Risk,Send re-engagement email
+0.5589391532692992,Medium Risk,Send re-engagement email
+0.5589391532692992,Medium Risk,Send re-engagement email
+0.5589391532692992,Medium Risk,Send re-engagement email
+0.5587122157171338,Medium Risk,Send re-engagement email
+0.5584355447071908,Medium Risk,Send re-engagement email
+0.558117503809996,Medium Risk,Send re-engagement email
+0.5579080829602927,Medium Risk,Send re-engagement email
+0.5576460351868446,Medium Risk,Send re-engagement email
+0.5575173978547039,Medium Risk,Send re-engagement email
+0.5566569273017987,Medium Risk,Send re-engagement email
+0.5566400404351096,Medium Risk,Send re-engagement email
+0.5565208740825488,Medium Risk,Send re-engagement email
+0.5562579214953135,Medium Risk,Send re-engagement email
+0.5562223174754017,Medium Risk,Send re-engagement email
+0.5554166008488015,Medium Risk,Send re-engagement email
+0.5552864005875225,Medium Risk,Send re-engagement email
+0.5546177655246542,Medium Risk,Send re-engagement email
+0.554560344685497,Medium Risk,Send re-engagement email
+0.5545490772811442,Medium Risk,Send re-engagement email
+0.5541517962159722,Medium Risk,Send re-engagement email
+0.5541035533376079,Medium Risk,Send re-engagement email
+0.5540928730112503,Medium Risk,Send re-engagement email
+0.5540925980069504,Medium Risk,Send re-engagement email
+0.5539459091404434,Medium Risk,Send re-engagement email
+0.5539006085879516,Medium Risk,Send re-engagement email
+0.5537435071202318,Medium Risk,Send re-engagement email
+0.5537003314817999,Medium Risk,Send re-engagement email
+0.5535629695077305,Medium Risk,Send re-engagement email
+0.5533507112686857,Medium Risk,Send re-engagement email
+0.5529409679134012,Medium Risk,Send re-engagement email
+0.5527606801584466,Medium Risk,Send re-engagement email
+0.5523896079654619,Medium Risk,Send re-engagement email
+0.5519794587337141,Medium Risk,Send re-engagement email
+0.5515871651699785,Medium Risk,Send re-engagement email
+0.5510694720667528,Medium Risk,Send re-engagement email
+0.5507505227121703,Medium Risk,Send re-engagement email
+0.5504212869506115,Medium Risk,Send re-engagement email
+0.5502304759752181,Medium Risk,Send re-engagement email
+0.549965220485659,Medium Risk,Send re-engagement email
+0.549769062932284,Medium Risk,Send re-engagement email
+0.5492505019660257,Medium Risk,Send re-engagement email
+0.548840598320901,Medium Risk,Send re-engagement email
+0.5487913448705413,Medium Risk,Send re-engagement email
+0.5484940420150821,Medium Risk,Send re-engagement email
+0.5484678457528739,Medium Risk,Send re-engagement email
+0.5484229981275812,Medium Risk,Send re-engagement email
+0.5483040637894356,Medium Risk,Send re-engagement email
+0.5482926399833024,Medium Risk,Send re-engagement email
+0.5481139624192491,Medium Risk,Send re-engagement email
+0.54802339193641,Medium Risk,Send re-engagement email
+0.5478001218460097,Medium Risk,Send re-engagement email
+0.5475480256630193,Medium Risk,Send re-engagement email
+0.5472744478576572,Medium Risk,Send re-engagement email
+0.547115351946157,Medium Risk,Send re-engagement email
+0.5471030793032559,Medium Risk,Send re-engagement email
+0.5468194963155899,Medium Risk,Send re-engagement email
+0.5468030373358074,Medium Risk,Send re-engagement email
+0.5465336274799937,Medium Risk,Send re-engagement email
+0.5458262678306587,Medium Risk,Send re-engagement email
+0.5456118575370067,Medium Risk,Send re-engagement email
+0.545521394947453,Medium Risk,Send re-engagement email
+0.5449017809428195,Medium Risk,Send re-engagement email
+0.5446931284612584,Medium Risk,Send re-engagement email
+0.5445317910181128,Medium Risk,Send re-engagement email
+0.5444173400317657,Medium Risk,Send re-engagement email
+0.5437224003352586,Medium Risk,Send re-engagement email
+0.543621196444299,Medium Risk,Send re-engagement email
+0.5434677153510781,Medium Risk,Send re-engagement email
+0.5434117953546863,Medium Risk,Send re-engagement email
+0.5433683852164457,Medium Risk,Send re-engagement email
+0.5433683852164457,Medium Risk,Send re-engagement email
+0.5428752481977387,Medium Risk,Send re-engagement email
+0.5425981265579287,Medium Risk,Send re-engagement email
+0.5425091961628585,Medium Risk,Send re-engagement email
+0.5424808343392228,Medium Risk,Send re-engagement email
+0.5423352099247211,Medium Risk,Send re-engagement email
+0.5419022689689794,Medium Risk,Send re-engagement email
+0.5417433398118238,Medium Risk,Send re-engagement email
+0.5416417333370119,Medium Risk,Send re-engagement email
+0.5408094351698693,Medium Risk,Send re-engagement email
+0.5406381182555958,Medium Risk,Send re-engagement email
+0.5400805051261898,Medium Risk,Send re-engagement email
+0.5399762131016427,Medium Risk,Send re-engagement email
+0.5396365447462099,Medium Risk,Send re-engagement email
+0.5396026333100381,Medium Risk,Send re-engagement email
+0.5395572669302052,Medium Risk,Send re-engagement email
+0.5395062676712147,Medium Risk,Send re-engagement email
+0.5395062676712147,Medium Risk,Send re-engagement email
+0.5394504818399851,Medium Risk,Send re-engagement email
+0.5391454761786759,Medium Risk,Send re-engagement email
+0.5390658076553689,Medium Risk,Send re-engagement email
+0.5388967567332239,Medium Risk,Send re-engagement email
+0.5385563333281255,Medium Risk,Send re-engagement email
+0.5383315577598082,Medium Risk,Send re-engagement email
+0.5382843586710341,Medium Risk,Send re-engagement email
+0.5381750924123077,Medium Risk,Send re-engagement email
+0.5378857649301588,Medium Risk,Send re-engagement email
+0.5378838918512107,Medium Risk,Send re-engagement email
+0.5375713287784532,Medium Risk,Send re-engagement email
+0.5373095152340305,Medium Risk,Send re-engagement email
+0.5370946213361321,Medium Risk,Send re-engagement email
+0.537019056689725,Medium Risk,Send re-engagement email
+0.5369660541155872,Medium Risk,Send re-engagement email
+0.5367825107304857,Medium Risk,Send re-engagement email
+0.5366228221952167,Medium Risk,Send re-engagement email
+0.5366006520773913,Medium Risk,Send re-engagement email
+0.5365981847968502,Medium Risk,Send re-engagement email
+0.5362207712215326,Medium Risk,Send re-engagement email
+0.5361682145434024,Medium Risk,Send re-engagement email
+0.5360136264787418,Medium Risk,Send re-engagement email
+0.535976702408729,Medium Risk,Send re-engagement email
+0.5359738671990052,Medium Risk,Send re-engagement email
+0.5358664254717488,Medium Risk,Send re-engagement email
+0.5357511096410493,Medium Risk,Send re-engagement email
+0.5353858525863556,Medium Risk,Send re-engagement email
+0.5352014272733834,Medium Risk,Send re-engagement email
+0.5349643430156535,Medium Risk,Send re-engagement email
+0.534532166899547,Medium Risk,Send re-engagement email
+0.5340840859375678,Medium Risk,Send re-engagement email
+0.5338890073263414,Medium Risk,Send re-engagement email
+0.5336990821513834,Medium Risk,Send re-engagement email
+0.5334210316592887,Medium Risk,Send re-engagement email
+0.5333999263327455,Medium Risk,Send re-engagement email
+0.5333825246436187,Medium Risk,Send re-engagement email
+0.5332525798002938,Medium Risk,Send re-engagement email
+0.5331714766323489,Medium Risk,Send re-engagement email
+0.5329428518350054,Medium Risk,Send re-engagement email
+0.5329252050250575,Medium Risk,Send re-engagement email
+0.5328901758910256,Medium Risk,Send re-engagement email
+0.5328609633078529,Medium Risk,Send re-engagement email
+0.5328571552933722,Medium Risk,Send re-engagement email
+0.532839762300536,Medium Risk,Send re-engagement email
+0.5327493311485941,Medium Risk,Send re-engagement email
+0.5325945192537042,Medium Risk,Send re-engagement email
+0.5325125130188332,Medium Risk,Send re-engagement email
+0.5320079839939055,Medium Risk,Send re-engagement email
+0.5319103568180215,Medium Risk,Send re-engagement email
+0.5315326968648388,Medium Risk,Send re-engagement email
+0.5314592216370702,Medium Risk,Send re-engagement email
+0.5314254970430277,Medium Risk,Send re-engagement email
+0.5311552408970038,Medium Risk,Send re-engagement email
+0.5309646945143258,Medium Risk,Send re-engagement email
+0.5308593923644056,Medium Risk,Send re-engagement email
+0.5308001274634887,Medium Risk,Send re-engagement email
+0.5307838368978206,Medium Risk,Send re-engagement email
+0.5303985869227764,Medium Risk,Send re-engagement email
+0.5302338722460178,Medium Risk,Send re-engagement email
+0.5302204638861692,Medium Risk,Send re-engagement email
+0.5300758728649371,Medium Risk,Send re-engagement email
+0.5297299999272487,Medium Risk,Send re-engagement email
+0.5296600284572514,Medium Risk,Send re-engagement email
+0.5292861342725375,Medium Risk,Send re-engagement email
+0.5292174743233722,Medium Risk,Send re-engagement email
+0.5290275194428318,Medium Risk,Send re-engagement email
+0.528959350166648,Medium Risk,Send re-engagement email
+0.5289395054447149,Medium Risk,Send re-engagement email
+0.5288184285229431,Medium Risk,Send re-engagement email
+0.5286896017245956,Medium Risk,Send re-engagement email
+0.5285945593720752,Medium Risk,Send re-engagement email
+0.528153225111149,Medium Risk,Send re-engagement email
+0.527449166089992,Medium Risk,Send re-engagement email
+0.5273902473773915,Medium Risk,Send re-engagement email
+0.527374808965205,Medium Risk,Send re-engagement email
+0.5272191064549944,Medium Risk,Send re-engagement email
+0.527198468032232,Medium Risk,Send re-engagement email
+0.5271407567231992,Medium Risk,Send re-engagement email
+0.5271332676176027,Medium Risk,Send re-engagement email
+0.5267882217227998,Medium Risk,Send re-engagement email
+0.5267551195995102,Medium Risk,Send re-engagement email
+0.5266926248023036,Medium Risk,Send re-engagement email
+0.5264536162886726,Medium Risk,Send re-engagement email
+0.5262909513027395,Medium Risk,Send re-engagement email
+0.5262409468223457,Medium Risk,Send re-engagement email
+0.5262261874464621,Medium Risk,Send re-engagement email
+0.5262191265151944,Medium Risk,Send re-engagement email
+0.5257847922235593,Medium Risk,Send re-engagement email
+0.5257752529463551,Medium Risk,Send re-engagement email
+0.5256998060191203,Medium Risk,Send re-engagement email
+0.5254561766365934,Medium Risk,Send re-engagement email
+0.5254480581916507,Medium Risk,Send re-engagement email
+0.5254442747265664,Medium Risk,Send re-engagement email
+0.5253662266868383,Medium Risk,Send re-engagement email
+0.5252889807568094,Medium Risk,Send re-engagement email
+0.5248427279025865,Medium Risk,Send re-engagement email
+0.5248121738187773,Medium Risk,Send re-engagement email
+0.5244065856308888,Medium Risk,Send re-engagement email
+0.5243687345971242,Medium Risk,Send re-engagement email
+0.5243441802024521,Medium Risk,Send re-engagement email
+0.5240040583396539,Medium Risk,Send re-engagement email
+0.5238959064629886,Medium Risk,Send re-engagement email
+0.5237427501430943,Medium Risk,Send re-engagement email
+0.5236930009992408,Medium Risk,Send re-engagement email
+0.5235382293289891,Medium Risk,Send re-engagement email
+0.523371617993621,Medium Risk,Send re-engagement email
+0.5233508004972061,Medium Risk,Send re-engagement email
+0.5231381527855151,Medium Risk,Send re-engagement email
+0.5230782865213334,Medium Risk,Send re-engagement email
+0.5229356984045465,Medium Risk,Send re-engagement email
+0.5227317389625534,Medium Risk,Send re-engagement email
+0.5227305147633163,Medium Risk,Send re-engagement email
+0.5226574578503874,Medium Risk,Send re-engagement email
+0.5226302785672807,Medium Risk,Send re-engagement email
+0.5225031686677297,Medium Risk,Send re-engagement email
+0.5224776850689916,Medium Risk,Send re-engagement email
+0.5221640281199609,Medium Risk,Send re-engagement email
+0.5220121447639183,Medium Risk,Send re-engagement email
+0.5219600596280309,Medium Risk,Send re-engagement email
+0.5217308825782583,Medium Risk,Send re-engagement email
+0.5214179407195625,Medium Risk,Send re-engagement email
+0.5213543865456646,Medium Risk,Send re-engagement email
+0.5212462856476916,Medium Risk,Send re-engagement email
+0.5210932470188824,Medium Risk,Send re-engagement email
+0.5209960704848782,Medium Risk,Send re-engagement email
+0.5209563177586503,Medium Risk,Send re-engagement email
+0.5206900220865974,Medium Risk,Send re-engagement email
+0.5206883938887394,Medium Risk,Send re-engagement email
+0.5206416747712205,Medium Risk,Send re-engagement email
+0.5202346434268698,Medium Risk,Send re-engagement email
+0.5201556612867901,Medium Risk,Send re-engagement email
+0.5201388535516689,Medium Risk,Send re-engagement email
+0.5196029376552146,Medium Risk,Send re-engagement email
+0.5195862920076647,Medium Risk,Send re-engagement email
+0.5195484755824111,Medium Risk,Send re-engagement email
+0.519431112234745,Medium Risk,Send re-engagement email
+0.5192240291120814,Medium Risk,Send re-engagement email
+0.5191249980121636,Medium Risk,Send re-engagement email
+0.5188417057194044,Medium Risk,Send re-engagement email
+0.5187881186236979,Medium Risk,Send re-engagement email
+0.5186776416508191,Medium Risk,Send re-engagement email
+0.5184633542387345,Medium Risk,Send re-engagement email
+0.5182184139051297,Medium Risk,Send re-engagement email
+0.5181844344617695,Medium Risk,Send re-engagement email
+0.5178364796089627,Medium Risk,Send re-engagement email
+0.5174099984640408,Medium Risk,Send re-engagement email
+0.5173885218298786,Medium Risk,Send re-engagement email
+0.5168734102264798,Medium Risk,Send re-engagement email
+0.5168551532060887,Medium Risk,Send re-engagement email
+0.516629490809783,Medium Risk,Send re-engagement email
+0.5166024825896445,Medium Risk,Send re-engagement email
+0.5165824202008285,Medium Risk,Send re-engagement email
+0.5165739111034886,Medium Risk,Send re-engagement email
+0.5164299909651944,Medium Risk,Send re-engagement email
+0.5164069677977396,Medium Risk,Send re-engagement email
+0.51613501524506,Medium Risk,Send re-engagement email
+0.5160326638951083,Medium Risk,Send re-engagement email
+0.5157705898245473,Medium Risk,Send re-engagement email
+0.5157687397282081,Medium Risk,Send re-engagement email
+0.5154223383175923,Medium Risk,Send re-engagement email
+0.5154223383175923,Medium Risk,Send re-engagement email
+0.5152518975583888,Medium Risk,Send re-engagement email
+0.5149021053974768,Medium Risk,Send re-engagement email
+0.5147939918434222,Medium Risk,Send re-engagement email
+0.5144940046672533,Medium Risk,Send re-engagement email
+0.5143343437764174,Medium Risk,Send re-engagement email
+0.5138571833008726,Medium Risk,Send re-engagement email
+0.5138260603922254,Medium Risk,Send re-engagement email
+0.5136268905654737,Medium Risk,Send re-engagement email
+0.5135624122638629,Medium Risk,Send re-engagement email
+0.5132477616971675,Medium Risk,Send re-engagement email
+0.5131464900406949,Medium Risk,Send re-engagement email
+0.5131262289132824,Medium Risk,Send re-engagement email
+0.5126712848298749,Medium Risk,Send re-engagement email
+0.512446248647093,Medium Risk,Send re-engagement email
+0.5120216068295942,Medium Risk,Send re-engagement email
+0.5119077303834608,Medium Risk,Send re-engagement email
+0.511805009087747,Medium Risk,Send re-engagement email
+0.511805009087747,Medium Risk,Send re-engagement email
+0.5117995284518906,Medium Risk,Send re-engagement email
+0.5115354469224977,Medium Risk,Send re-engagement email
+0.511467396680989,Medium Risk,Send re-engagement email
+0.5111709109945153,Medium Risk,Send re-engagement email
+0.5110451994006427,Medium Risk,Send re-engagement email
+0.5108605627172049,Medium Risk,Send re-engagement email
+0.5108550084041341,Medium Risk,Send re-engagement email
+0.510718052282807,Medium Risk,Send re-engagement email
+0.5099939905880423,Medium Risk,Send re-engagement email
+0.5097658762824744,Medium Risk,Send re-engagement email
+0.5090210890936537,Medium Risk,Send re-engagement email
+0.5089288501394073,Medium Risk,Send re-engagement email
+0.5089004439110556,Medium Risk,Send re-engagement email
+0.5087230655150695,Medium Risk,Send re-engagement email
+0.5085190751831649,Medium Risk,Send re-engagement email
+0.5084550463970892,Medium Risk,Send re-engagement email
+0.5084270956460478,Medium Risk,Send re-engagement email
+0.5082604079228775,Medium Risk,Send re-engagement email
+0.5080130734145193,Medium Risk,Send re-engagement email
+0.5079026517245436,Medium Risk,Send re-engagement email
+0.5077983249176217,Medium Risk,Send re-engagement email
+0.5076548280208302,Medium Risk,Send re-engagement email
+0.5075384188184597,Medium Risk,Send re-engagement email
+0.5071555407254961,Medium Risk,Send re-engagement email
+0.5068235753396595,Medium Risk,Send re-engagement email
+0.5067919658778797,Medium Risk,Send re-engagement email
+0.5067846986110505,Medium Risk,Send re-engagement email
+0.5066770026551366,Medium Risk,Send re-engagement email
+0.506645965994032,Medium Risk,Send re-engagement email
+0.5063170766634876,Medium Risk,Send re-engagement email
+0.5062939537314464,Medium Risk,Send re-engagement email
+0.5061914871906281,Medium Risk,Send re-engagement email
+0.5060039469776182,Medium Risk,Send re-engagement email
+0.505983249612983,Medium Risk,Send re-engagement email
+0.505956393591246,Medium Risk,Send re-engagement email
+0.505828232987838,Medium Risk,Send re-engagement email
+0.5056416975675924,Medium Risk,Send re-engagement email
+0.5053708713464584,Medium Risk,Send re-engagement email
+0.5053189071668137,Medium Risk,Send re-engagement email
+0.5048844486665167,Medium Risk,Send re-engagement email
+0.5045925864514167,Medium Risk,Send re-engagement email
+0.5044517889799275,Medium Risk,Send re-engagement email
+0.5043111093119897,Medium Risk,Send re-engagement email
+0.5041565269357672,Medium Risk,Send re-engagement email
+0.5040428588024394,Medium Risk,Send re-engagement email
+0.5039295832791147,Medium Risk,Send re-engagement email
+0.5037451353376179,Medium Risk,Send re-engagement email
+0.5036075954496497,Medium Risk,Send re-engagement email
+0.5035634764728778,Medium Risk,Send re-engagement email
+0.5035145176298239,Medium Risk,Send re-engagement email
+0.5032994168949455,Medium Risk,Send re-engagement email
+0.5032721884246529,Medium Risk,Send re-engagement email
+0.5029970385956825,Medium Risk,Send re-engagement email
+0.5029412166769073,Medium Risk,Send re-engagement email
+0.502807959489513,Medium Risk,Send re-engagement email
+0.5026880578747822,Medium Risk,Send re-engagement email
+0.5026462677314731,Medium Risk,Send re-engagement email
+0.502513705776236,Medium Risk,Send re-engagement email
+0.5024974660579552,Medium Risk,Send re-engagement email
+0.5024973100396842,Medium Risk,Send re-engagement email
+0.5024201880148998,Medium Risk,Send re-engagement email
+0.5023768499121456,Medium Risk,Send re-engagement email
+0.5022588120118501,Medium Risk,Send re-engagement email
+0.5021688304205767,Medium Risk,Send re-engagement email
+0.501772008736898,Medium Risk,Send re-engagement email
+0.501772008736898,Medium Risk,Send re-engagement email
+0.5015844759990883,Medium Risk,Send re-engagement email
+0.501571889191182,Medium Risk,Send re-engagement email
+0.5014208125437066,Medium Risk,Send re-engagement email
+0.5014208125437066,Medium Risk,Send re-engagement email
+0.5012078551262147,Medium Risk,Send re-engagement email
+0.5010129278733199,Medium Risk,Send re-engagement email
+0.5009457172784981,Medium Risk,Send re-engagement email
+0.5008905583969282,Medium Risk,Send re-engagement email
+0.5008005257735215,Medium Risk,Send re-engagement email
+0.5005511871057836,Medium Risk,Send re-engagement email
+0.5004399627194863,Medium Risk,Send re-engagement email
+0.500427427179063,Medium Risk,Send re-engagement email
+0.5001873397887793,Medium Risk,Send re-engagement email
+0.4997938256411036,Medium Risk,Send re-engagement email
+0.4994378946429243,Medium Risk,Send re-engagement email
+0.499405295486688,Medium Risk,Send re-engagement email
+0.499327247956026,Medium Risk,Send re-engagement email
+0.4993095790377312,Medium Risk,Send re-engagement email
+0.4992691430994771,Medium Risk,Send re-engagement email
+0.4991134852447198,Medium Risk,Send re-engagement email
+0.49909039790851933,Medium Risk,Send re-engagement email
+0.4990392149706374,Medium Risk,Send re-engagement email
+0.498987931009893,Medium Risk,Send re-engagement email
+0.4988760103852887,Medium Risk,Send re-engagement email
+0.49862850929464175,Medium Risk,Send re-engagement email
+0.49790628611585325,Medium Risk,Send re-engagement email
+0.49790326872271856,Medium Risk,Send re-engagement email
+0.49780081230190987,Medium Risk,Send re-engagement email
+0.4976284111038286,Medium Risk,Send re-engagement email
+0.4972622562493082,Medium Risk,Send re-engagement email
+0.49703837425629627,Medium Risk,Send re-engagement email
+0.4969427589756016,Medium Risk,Send re-engagement email
+0.4969150397709467,Medium Risk,Send re-engagement email
+0.49685966394693615,Medium Risk,Send re-engagement email
+0.4968208828744831,Medium Risk,Send re-engagement email
+0.4966182474826102,Medium Risk,Send re-engagement email
+0.4964469554994206,Medium Risk,Send re-engagement email
+0.4963909543267188,Medium Risk,Send re-engagement email
+0.49635995258784793,Medium Risk,Send re-engagement email
+0.4963454417389485,Medium Risk,Send re-engagement email
+0.4963214714476099,Medium Risk,Send re-engagement email
+0.49618856190076555,Medium Risk,Send re-engagement email
+0.4960304313779688,Medium Risk,Send re-engagement email
+0.4957206101761979,Medium Risk,Send re-engagement email
+0.4956529651809851,Medium Risk,Send re-engagement email
+0.49553599900687567,Medium Risk,Send re-engagement email
+0.4954982188212774,Medium Risk,Send re-engagement email
+0.495253552976332,Medium Risk,Send re-engagement email
+0.49520274555891847,Medium Risk,Send re-engagement email
+0.4950951270598752,Medium Risk,Send re-engagement email
+0.49506485258166305,Medium Risk,Send re-engagement email
+0.4948809065543282,Medium Risk,Send re-engagement email
+0.494739090083965,Medium Risk,Send re-engagement email
+0.49417469515248164,Medium Risk,Send re-engagement email
+0.4939041164436664,Medium Risk,Send re-engagement email
+0.49357065635139896,Medium Risk,Send re-engagement email
+0.49349992046294616,Medium Risk,Send re-engagement email
+0.49335961979897713,Medium Risk,Send re-engagement email
+0.49313170249902094,Medium Risk,Send re-engagement email
+0.4927526775449394,Medium Risk,Send re-engagement email
+0.4927321691713924,Medium Risk,Send re-engagement email
+0.4927165554837283,Medium Risk,Send re-engagement email
+0.492670603553728,Medium Risk,Send re-engagement email
+0.4925041497346151,Medium Risk,Send re-engagement email
+0.4921194584069751,Medium Risk,Send re-engagement email
+0.49209039657474685,Medium Risk,Send re-engagement email
+0.492033655133366,Medium Risk,Send re-engagement email
+0.4919705866435499,Medium Risk,Send re-engagement email
+0.4919666593188204,Medium Risk,Send re-engagement email
+0.4919577355290771,Medium Risk,Send re-engagement email
+0.49194676578212104,Medium Risk,Send re-engagement email
+0.4918233803784143,Medium Risk,Send re-engagement email
+0.49151316206121526,Medium Risk,Send re-engagement email
+0.49124781423241176,Medium Risk,Send re-engagement email
+0.4911037978140482,Medium Risk,Send re-engagement email
+0.49099134970633906,Medium Risk,Send re-engagement email
+0.4908276910641166,Medium Risk,Send re-engagement email
+0.49067918935008137,Medium Risk,Send re-engagement email
+0.4905783041377135,Medium Risk,Send re-engagement email
+0.49036001963180176,Medium Risk,Send re-engagement email
+0.49032328884358106,Medium Risk,Send re-engagement email
+0.490150438307661,Medium Risk,Send re-engagement email
+0.48994364090440323,Medium Risk,Send re-engagement email
+0.48958342857470805,Medium Risk,Send re-engagement email
+0.48950176195736606,Medium Risk,Send re-engagement email
+0.4894707333675747,Medium Risk,Send re-engagement email
+0.4889855971536665,Medium Risk,Send re-engagement email
+0.4888054565876231,Medium Risk,Send re-engagement email
+0.48871162010874813,Medium Risk,Send re-engagement email
+0.48868187635918703,Medium Risk,Send re-engagement email
+0.4886595733712625,Medium Risk,Send re-engagement email
+0.48842518293379383,Medium Risk,Send re-engagement email
+0.48842518293379383,Medium Risk,Send re-engagement email
+0.4881983976767239,Medium Risk,Send re-engagement email
+0.48814375479128175,Medium Risk,Send re-engagement email
+0.48800134225375963,Medium Risk,Send re-engagement email
+0.48796703262188096,Medium Risk,Send re-engagement email
+0.4879441414072236,Medium Risk,Send re-engagement email
+0.4878105807443029,Medium Risk,Send re-engagement email
+0.4877685402244316,Medium Risk,Send re-engagement email
+0.48758704104564204,Medium Risk,Send re-engagement email
+0.4875099607270508,Medium Risk,Send re-engagement email
+0.4873032318167032,Medium Risk,Send re-engagement email
+0.48722790284620565,Medium Risk,Send re-engagement email
+0.48703034679850754,Medium Risk,Send re-engagement email
+0.4868791431434052,Medium Risk,Send re-engagement email
+0.4867203241480512,Medium Risk,Send re-engagement email
+0.48667673925164734,Medium Risk,Send re-engagement email
+0.48647079132960813,Medium Risk,Send re-engagement email
+0.48617195229977894,Medium Risk,Send re-engagement email
+0.4861282303730256,Medium Risk,Send re-engagement email
+0.486045947429849,Medium Risk,Send re-engagement email
+0.48571806822728014,Medium Risk,Send re-engagement email
+0.48568298651205183,Medium Risk,Send re-engagement email
+0.48556462313478344,Medium Risk,Send re-engagement email
+0.48544758161235246,Medium Risk,Send re-engagement email
+0.48542734826300893,Medium Risk,Send re-engagement email
+0.48524548830605346,Medium Risk,Send re-engagement email
+0.4850586571358014,Medium Risk,Send re-engagement email
+0.4847582033214768,Medium Risk,Send re-engagement email
+0.48451976417261766,Medium Risk,Send re-engagement email
+0.48447362034134117,Medium Risk,Send re-engagement email
+0.484410356014924,Medium Risk,Send re-engagement email
+0.48432354466523525,Medium Risk,Send re-engagement email
+0.48414333239787205,Medium Risk,Send re-engagement email
+0.4839128429258936,Medium Risk,Send re-engagement email
+0.48389229155786373,Medium Risk,Send re-engagement email
+0.48370063966625293,Medium Risk,Send re-engagement email
+0.4836325909208001,Medium Risk,Send re-engagement email
+0.4836038656545189,Medium Risk,Send re-engagement email
+0.48354134555283884,Medium Risk,Send re-engagement email
+0.48350140129775915,Medium Risk,Send re-engagement email
+0.4834381681612758,Medium Risk,Send re-engagement email
+0.4827050369228595,Medium Risk,Send re-engagement email
+0.48184252701999225,Medium Risk,Send re-engagement email
+0.4816597811816794,Medium Risk,Send re-engagement email
+0.48142601961261255,Medium Risk,Send re-engagement email
+0.48132612285197757,Medium Risk,Send re-engagement email
+0.4813045079018545,Medium Risk,Send re-engagement email
+0.481246687416005,Medium Risk,Send re-engagement email
+0.4806711739755747,Medium Risk,Send re-engagement email
+0.48065644326020346,Medium Risk,Send re-engagement email
+0.4806080839953342,Medium Risk,Send re-engagement email
+0.4804823895612093,Medium Risk,Send re-engagement email
+0.48041672731205887,Medium Risk,Send re-engagement email
+0.47990617569989313,Medium Risk,Send re-engagement email
+0.4798746649278845,Medium Risk,Send re-engagement email
+0.47934395765763077,Medium Risk,Send re-engagement email
+0.47927409898572976,Medium Risk,Send re-engagement email
+0.47923180520674774,Medium Risk,Send re-engagement email
+0.47865611346869175,Medium Risk,Send re-engagement email
+0.47818432257629667,Medium Risk,Send re-engagement email
+0.4780058399215604,Medium Risk,Send re-engagement email
+0.4778783999716715,Medium Risk,Send re-engagement email
+0.4776538232998042,Medium Risk,Send re-engagement email
+0.47759470044156144,Medium Risk,Send re-engagement email
+0.4775300153186439,Medium Risk,Send re-engagement email
+0.47724125959763114,Medium Risk,Send re-engagement email
+0.4771420796071593,Medium Risk,Send re-engagement email
+0.47703786085761324,Medium Risk,Send re-engagement email
+0.4768943022405711,Medium Risk,Send re-engagement email
+0.4764650346628785,Medium Risk,Send re-engagement email
+0.47644538696036876,Medium Risk,Send re-engagement email
+0.476067595839388,Medium Risk,Send re-engagement email
+0.47587358553481984,Medium Risk,Send re-engagement email
+0.4758256262181373,Medium Risk,Send re-engagement email
+0.47562223926107505,Medium Risk,Send re-engagement email
+0.4756033070106684,Medium Risk,Send re-engagement email
+0.4755203160979281,Medium Risk,Send re-engagement email
+0.4753740157361541,Medium Risk,Send re-engagement email
+0.4753624798963893,Medium Risk,Send re-engagement email
+0.47524169249852605,Medium Risk,Send re-engagement email
+0.4746953335453369,Medium Risk,Send re-engagement email
+0.4746953335453369,Medium Risk,Send re-engagement email
+0.47445877385255564,Medium Risk,Send re-engagement email
+0.47430456479093425,Medium Risk,Send re-engagement email
+0.4739961112027901,Medium Risk,Send re-engagement email
+0.4738436943517139,Medium Risk,Send re-engagement email
+0.4738307498090964,Medium Risk,Send re-engagement email
+0.4736035071189723,Medium Risk,Send re-engagement email
+0.47355319218832004,Medium Risk,Send re-engagement email
+0.4735132555528223,Medium Risk,Send re-engagement email
+0.4733604711494425,Medium Risk,Send re-engagement email
+0.4727127524674424,Medium Risk,Send re-engagement email
+0.4724712356801535,Medium Risk,Send re-engagement email
+0.4720210032990682,Medium Risk,Send re-engagement email
+0.4716964179159951,Medium Risk,Send re-engagement email
+0.4716733583003893,Medium Risk,Send re-engagement email
+0.47153470998900965,Medium Risk,Send re-engagement email
+0.47149243796682394,Medium Risk,Send re-engagement email
+0.4712151189138183,Medium Risk,Send re-engagement email
+0.47108099107095347,Medium Risk,Send re-engagement email
+0.4707094820210426,Medium Risk,Send re-engagement email
+0.4705876058118214,Medium Risk,Send re-engagement email
+0.4705648423917769,Medium Risk,Send re-engagement email
+0.4701987266981002,Medium Risk,Send re-engagement email
+0.4701010963163918,Medium Risk,Send re-engagement email
+0.46936227615848347,Medium Risk,Send re-engagement email
+0.4690474584547081,Medium Risk,Send re-engagement email
+0.46894477109056687,Medium Risk,Send re-engagement email
+0.468926986334791,Medium Risk,Send re-engagement email
+0.46806183000842355,Medium Risk,Send re-engagement email
+0.46789235755809144,Medium Risk,Send re-engagement email
+0.46784642127439896,Medium Risk,Send re-engagement email
+0.4677794343666647,Medium Risk,Send re-engagement email
+0.46773239003331823,Medium Risk,Send re-engagement email
+0.46764228890211007,Medium Risk,Send re-engagement email
+0.4672423579519063,Medium Risk,Send re-engagement email
+0.46699498878554185,Medium Risk,Send re-engagement email
+0.4668690832558465,Medium Risk,Send re-engagement email
+0.46676544663951647,Medium Risk,Send re-engagement email
+0.46656416966098035,Medium Risk,Send re-engagement email
+0.46634064430008093,Medium Risk,Send re-engagement email
+0.4662154560394145,Medium Risk,Send re-engagement email
+0.46617375897472635,Medium Risk,Send re-engagement email
+0.4659258681516125,Medium Risk,Send re-engagement email
+0.4656310745649,Medium Risk,Send re-engagement email
+0.46558190022840384,Medium Risk,Send re-engagement email
+0.4655377040019608,Medium Risk,Send re-engagement email
+0.4651301419930604,Medium Risk,Send re-engagement email
+0.46502609800189426,Medium Risk,Send re-engagement email
+0.4647726665886014,Medium Risk,Send re-engagement email
+0.46473618288623947,Medium Risk,Send re-engagement email
+0.46469736156762614,Medium Risk,Send re-engagement email
+0.4644884064067006,Medium Risk,Send re-engagement email
+0.46428755620978324,Medium Risk,Send re-engagement email
+0.46396546296703606,Medium Risk,Send re-engagement email
+0.4638715949752307,Medium Risk,Send re-engagement email
+0.46369028454968814,Medium Risk,Send re-engagement email
+0.4633524575511758,Medium Risk,Send re-engagement email
+0.46327710237336917,Medium Risk,Send re-engagement email
+0.46324852994029536,Medium Risk,Send re-engagement email
+0.4631956339402356,Medium Risk,Send re-engagement email
+0.4631196253438763,Medium Risk,Send re-engagement email
+0.46270562107082847,Medium Risk,Send re-engagement email
+0.4626982175507485,Medium Risk,Send re-engagement email
+0.46264470902752997,Medium Risk,Send re-engagement email
+0.4621578212068404,Medium Risk,Send re-engagement email
+0.4621064046101,Medium Risk,Send re-engagement email
+0.461943983026513,Medium Risk,Send re-engagement email
+0.4616982375175568,Medium Risk,Send re-engagement email
+0.4616226846931106,Medium Risk,Send re-engagement email
+0.46147061327236855,Medium Risk,Send re-engagement email
+0.4612960793278771,Medium Risk,Send re-engagement email
+0.4612877934440573,Medium Risk,Send re-engagement email
+0.4612577227298819,Medium Risk,Send re-engagement email
+0.4612120705103234,Medium Risk,Send re-engagement email
+0.46107272493779194,Medium Risk,Send re-engagement email
+0.46085245868623487,Medium Risk,Send re-engagement email
+0.4607896157655894,Medium Risk,Send re-engagement email
+0.46076165011253195,Medium Risk,Send re-engagement email
+0.46071680402746124,Medium Risk,Send re-engagement email
+0.4607067206698918,Medium Risk,Send re-engagement email
+0.46038140835773445,Medium Risk,Send re-engagement email
+0.4602293073081427,Medium Risk,Send re-engagement email
+0.45992079359184856,Medium Risk,Send re-engagement email
+0.45968288650620104,Medium Risk,Send re-engagement email
+0.45937280384204393,Medium Risk,Send re-engagement email
+0.45913889899365545,Medium Risk,Send re-engagement email
+0.4591187686539991,Medium Risk,Send re-engagement email
+0.45889203100340076,Medium Risk,Send re-engagement email
+0.45883905075518916,Medium Risk,Send re-engagement email
+0.45866950785126576,Medium Risk,Send re-engagement email
+0.4581466452897611,Medium Risk,Send re-engagement email
+0.4580281661036986,Medium Risk,Send re-engagement email
+0.45759616527399005,Medium Risk,Send re-engagement email
+0.45746833988094876,Medium Risk,Send re-engagement email
+0.45694780904659965,Medium Risk,Send re-engagement email
+0.4568456801363179,Medium Risk,Send re-engagement email
+0.456807278763047,Medium Risk,Send re-engagement email
+0.45679701169044934,Medium Risk,Send re-engagement email
+0.45677184049355973,Medium Risk,Send re-engagement email
+0.4565385141604383,Medium Risk,Send re-engagement email
+0.45570943848862105,Medium Risk,Send re-engagement email
+0.4555005947426378,Medium Risk,Send re-engagement email
+0.4554216846680415,Medium Risk,Send re-engagement email
+0.4551653181972104,Medium Risk,Send re-engagement email
+0.45513001678402504,Medium Risk,Send re-engagement email
+0.4550359644446653,Medium Risk,Send re-engagement email
+0.45450781698503745,Medium Risk,Send re-engagement email
+0.45438401270890694,Medium Risk,Send re-engagement email
+0.45426295708344705,Medium Risk,Send re-engagement email
+0.45382512130369035,Medium Risk,Send re-engagement email
+0.4535958066672492,Medium Risk,Send re-engagement email
+0.4531785293446401,Medium Risk,Send re-engagement email
+0.4530461909968722,Medium Risk,Send re-engagement email
+0.45285885973833645,Medium Risk,Send re-engagement email
+0.45279545326277115,Medium Risk,Send re-engagement email
+0.4527238706067474,Medium Risk,Send re-engagement email
+0.45261602094070036,Medium Risk,Send re-engagement email
+0.4524779037520345,Medium Risk,Send re-engagement email
+0.4522543967341058,Medium Risk,Send re-engagement email
+0.4522347746160774,Medium Risk,Send re-engagement email
+0.4521696605327049,Medium Risk,Send re-engagement email
+0.45191559896477185,Medium Risk,Send re-engagement email
+0.4518811849615733,Medium Risk,Send re-engagement email
+0.45165335451970123,Medium Risk,Send re-engagement email
+0.4515872724383676,Medium Risk,Send re-engagement email
+0.4515822868534504,Medium Risk,Send re-engagement email
+0.4515141095235203,Medium Risk,Send re-engagement email
+0.4509528705655918,Medium Risk,Send re-engagement email
+0.4504895661160542,Medium Risk,Send re-engagement email
+0.45044594880305255,Medium Risk,Send re-engagement email
+0.45035796987960863,Medium Risk,Send re-engagement email
+0.4500499176285802,Medium Risk,Send re-engagement email
+0.4500244778815779,Medium Risk,Send re-engagement email
+0.4499341375253119,Medium Risk,Send re-engagement email
+0.44982949325321675,Medium Risk,Send re-engagement email
+0.4497284470790907,Medium Risk,Send re-engagement email
+0.4491425618220493,Medium Risk,Send re-engagement email
+0.4490063076027162,Medium Risk,Send re-engagement email
+0.44873886420734777,Medium Risk,Send re-engagement email
+0.4487378707054592,Medium Risk,Send re-engagement email
+0.4479849431497323,Medium Risk,Send re-engagement email
+0.44780059346362416,Medium Risk,Send re-engagement email
+0.4477422514910125,Medium Risk,Send re-engagement email
+0.4476513131824283,Medium Risk,Send re-engagement email
+0.44710480823286114,Medium Risk,Send re-engagement email
+0.4470761660275736,Medium Risk,Send re-engagement email
+0.44680243377755535,Medium Risk,Send re-engagement email
+0.4466106861463256,Medium Risk,Send re-engagement email
+0.4464765048290622,Medium Risk,Send re-engagement email
+0.4464161963395435,Medium Risk,Send re-engagement email
+0.44627787216031606,Medium Risk,Send re-engagement email
+0.4462068298741855,Medium Risk,Send re-engagement email
+0.44618684430941463,Medium Risk,Send re-engagement email
+0.44590661731097825,Medium Risk,Send re-engagement email
+0.44550590151480274,Medium Risk,Send re-engagement email
+0.44518432474372605,Medium Risk,Send re-engagement email
+0.44517817840867485,Medium Risk,Send re-engagement email
+0.4446144636159476,Medium Risk,Send re-engagement email
+0.44448142930727946,Medium Risk,Send re-engagement email
+0.44404579927699017,Medium Risk,Send re-engagement email
+0.4439112617051045,Medium Risk,Send re-engagement email
+0.4438991099076709,Medium Risk,Send re-engagement email
+0.44381485209668753,Medium Risk,Send re-engagement email
+0.4436642660578521,Medium Risk,Send re-engagement email
+0.4435500635739959,Medium Risk,Send re-engagement email
+0.4429928967933754,Medium Risk,Send re-engagement email
+0.44298520168348887,Medium Risk,Send re-engagement email
+0.44294234260641185,Medium Risk,Send re-engagement email
+0.4424258037536464,Medium Risk,Send re-engagement email
+0.4423769448285784,Medium Risk,Send re-engagement email
+0.44150949478255463,Medium Risk,Send re-engagement email
+0.4414569183004321,Medium Risk,Send re-engagement email
+0.44091885593943636,Medium Risk,Send re-engagement email
+0.4408988758944875,Medium Risk,Send re-engagement email
+0.44044984783490476,Medium Risk,Send re-engagement email
+0.44044486134204247,Medium Risk,Send re-engagement email
+0.4403307760402415,Medium Risk,Send re-engagement email
+0.44003662525212844,Medium Risk,Send re-engagement email
+0.43927944690203025,Medium Risk,Send re-engagement email
+0.4391640881090281,Medium Risk,Send re-engagement email
+0.4389377204051864,Medium Risk,Send re-engagement email
+0.43877247047034784,Medium Risk,Send re-engagement email
+0.4380710543755194,Medium Risk,Send re-engagement email
+0.43801676136703876,Medium Risk,Send re-engagement email
+0.438003632612955,Medium Risk,Send re-engagement email
+0.43780550109038563,Medium Risk,Send re-engagement email
+0.4377818624126423,Medium Risk,Send re-engagement email
+0.43774825062608325,Medium Risk,Send re-engagement email
+0.4375114702555769,Medium Risk,Send re-engagement email
+0.43747553515387844,Medium Risk,Send re-engagement email
+0.43746975796962473,Medium Risk,Send re-engagement email
+0.43692712626325786,Medium Risk,Send re-engagement email
+0.4366572044971246,Medium Risk,Send re-engagement email
+0.43660925734548917,Medium Risk,Send re-engagement email
+0.4365815884209544,Medium Risk,Send re-engagement email
+0.436484538223287,Medium Risk,Send re-engagement email
+0.4361012686075068,Medium Risk,Send re-engagement email
+0.43609307894265564,Medium Risk,Send re-engagement email
+0.4360574651836209,Medium Risk,Send re-engagement email
+0.4351907053060667,Medium Risk,Send re-engagement email
+0.43475040191634684,Medium Risk,Send re-engagement email
+0.43468649101628903,Medium Risk,Send re-engagement email
+0.43448033183598633,Medium Risk,Send re-engagement email
+0.43344747538350953,Medium Risk,Send re-engagement email
+0.43336553846507825,Medium Risk,Send re-engagement email
+0.43333047859070645,Medium Risk,Send re-engagement email
+0.43329239319788715,Medium Risk,Send re-engagement email
+0.4332689431840916,Medium Risk,Send re-engagement email
+0.4329876769742441,Medium Risk,Send re-engagement email
+0.4329337242171167,Medium Risk,Send re-engagement email
+0.4322938734657013,Medium Risk,Send re-engagement email
+0.4322518161310514,Medium Risk,Send re-engagement email
+0.43196004710010527,Medium Risk,Send re-engagement email
+0.43177513902334835,Medium Risk,Send re-engagement email
+0.43169909505451615,Medium Risk,Send re-engagement email
+0.43163633338386787,Medium Risk,Send re-engagement email
+0.4311469680332142,Medium Risk,Send re-engagement email
+0.43093867237907285,Medium Risk,Send re-engagement email
+0.43087526660298964,Medium Risk,Send re-engagement email
+0.4308639581294397,Medium Risk,Send re-engagement email
+0.43052652472268477,Medium Risk,Send re-engagement email
+0.4302704800103363,Medium Risk,Send re-engagement email
+0.43006874825550434,Medium Risk,Send re-engagement email
+0.4299993651385926,Medium Risk,Send re-engagement email
+0.4299675579796562,Medium Risk,Send re-engagement email
+0.4299528588666986,Medium Risk,Send re-engagement email
+0.42993002056938506,Medium Risk,Send re-engagement email
+0.42979967063889213,Medium Risk,Send re-engagement email
+0.42977237302391463,Medium Risk,Send re-engagement email
+0.4295538887004509,Medium Risk,Send re-engagement email
+0.42947916116435103,Medium Risk,Send re-engagement email
+0.4294482250107731,Medium Risk,Send re-engagement email
+0.429357229293189,Medium Risk,Send re-engagement email
+0.42929482288829035,Medium Risk,Send re-engagement email
+0.42914196160890705,Medium Risk,Send re-engagement email
+0.42876346590146386,Medium Risk,Send re-engagement email
+0.4284434490778364,Medium Risk,Send re-engagement email
+0.42819125520395795,Medium Risk,Send re-engagement email
+0.4278738790599314,Medium Risk,Send re-engagement email
+0.42777560853243907,Medium Risk,Send re-engagement email
+0.42739991794984517,Medium Risk,Send re-engagement email
+0.4271876926186653,Medium Risk,Send re-engagement email
+0.4269039197144989,Medium Risk,Send re-engagement email
+0.42687179683501225,Medium Risk,Send re-engagement email
+0.42648186520850423,Medium Risk,Send re-engagement email
+0.4264722275278643,Medium Risk,Send re-engagement email
+0.4264624322991265,Medium Risk,Send re-engagement email
+0.42633237795115997,Medium Risk,Send re-engagement email
+0.4261659340850107,Medium Risk,Send re-engagement email
+0.42614231747363485,Medium Risk,Send re-engagement email
+0.4258498603637852,Medium Risk,Send re-engagement email
+0.42583489246705347,Medium Risk,Send re-engagement email
+0.4255298292003469,Medium Risk,Send re-engagement email
+0.4255003655345611,Medium Risk,Send re-engagement email
+0.4253526495805573,Medium Risk,Send re-engagement email
+0.4248755993844391,Medium Risk,Send re-engagement email
+0.42464969341916314,Medium Risk,Send re-engagement email
+0.4245189763717665,Medium Risk,Send re-engagement email
+0.4244129465582549,Medium Risk,Send re-engagement email
+0.42409573183259885,Medium Risk,Send re-engagement email
+0.42406148029002233,Medium Risk,Send re-engagement email
+0.42405924141241563,Medium Risk,Send re-engagement email
+0.42356477614069293,Medium Risk,Send re-engagement email
+0.4232730896679369,Medium Risk,Send re-engagement email
+0.42270755153479345,Medium Risk,Send re-engagement email
+0.4226134773977948,Medium Risk,Send re-engagement email
+0.4226130963479846,Medium Risk,Send re-engagement email
+0.4224538702539077,Medium Risk,Send re-engagement email
+0.422228030551331,Medium Risk,Send re-engagement email
+0.4218105526595178,Medium Risk,Send re-engagement email
+0.4217094398290315,Medium Risk,Send re-engagement email
+0.4216855012783598,Medium Risk,Send re-engagement email
+0.4212762652548709,Medium Risk,Send re-engagement email
+0.42127374234412357,Medium Risk,Send re-engagement email
+0.4212681707023511,Medium Risk,Send re-engagement email
+0.4211368860117444,Medium Risk,Send re-engagement email
+0.4211159942714653,Medium Risk,Send re-engagement email
+0.42088793366634186,Medium Risk,Send re-engagement email
+0.4203203061393884,Medium Risk,Send re-engagement email
+0.42026212296360316,Medium Risk,Send re-engagement email
+0.42017577208527607,Medium Risk,Send re-engagement email
+0.4198952386618959,Medium Risk,Send re-engagement email
+0.41988313289036616,Medium Risk,Send re-engagement email
+0.41988212236732086,Medium Risk,Send re-engagement email
+0.419007176754208,Medium Risk,Send re-engagement email
+0.4188870620723769,Medium Risk,Send re-engagement email
+0.41869516186516265,Medium Risk,Send re-engagement email
+0.41842474813613145,Medium Risk,Send re-engagement email
+0.4180717640423218,Medium Risk,Send re-engagement email
+0.41783821426229467,Medium Risk,Send re-engagement email
+0.41731355619704585,Medium Risk,Send re-engagement email
+0.4173087297736602,Medium Risk,Send re-engagement email
+0.4172659763402805,Medium Risk,Send re-engagement email
+0.41720857104492987,Medium Risk,Send re-engagement email
+0.41710808280236905,Medium Risk,Send re-engagement email
+0.41691253195018974,Medium Risk,Send re-engagement email
+0.41680432332926387,Medium Risk,Send re-engagement email
+0.4162507260604508,Medium Risk,Send re-engagement email
+0.4161282583838018,Medium Risk,Send re-engagement email
+0.41606672507984327,Medium Risk,Send re-engagement email
+0.41555395121903677,Medium Risk,Send re-engagement email
+0.4153252986431118,Medium Risk,Send re-engagement email
+0.41527771455681145,Medium Risk,Send re-engagement email
+0.4152430108359061,Medium Risk,Send re-engagement email
+0.4152244352702466,Medium Risk,Send re-engagement email
+0.41511087524928003,Medium Risk,Send re-engagement email
+0.4149295082662843,Medium Risk,Send re-engagement email
+0.41491925805718105,Medium Risk,Send re-engagement email
+0.4148782804516405,Medium Risk,Send re-engagement email
+0.4148131502869775,Medium Risk,Send re-engagement email
+0.4147814275528379,Medium Risk,Send re-engagement email
+0.4147213945592605,Medium Risk,Send re-engagement email
+0.41468548360290586,Medium Risk,Send re-engagement email
+0.41458159953935303,Medium Risk,Send re-engagement email
+0.41441130688256744,Medium Risk,Send re-engagement email
+0.41428959380613456,Medium Risk,Send re-engagement email
+0.4140166818508544,Medium Risk,Send re-engagement email
+0.4137450934636263,Medium Risk,Send re-engagement email
+0.4136934806977701,Medium Risk,Send re-engagement email
+0.4132476706494687,Medium Risk,Send re-engagement email
+0.41319359202974665,Medium Risk,Send re-engagement email
+0.4130706294274947,Medium Risk,Send re-engagement email
+0.4126917136328969,Medium Risk,Send re-engagement email
+0.4125000727570093,Medium Risk,Send re-engagement email
+0.41247707894916247,Medium Risk,Send re-engagement email
+0.4123332474096135,Medium Risk,Send re-engagement email
+0.41219076508086394,Medium Risk,Send re-engagement email
+0.4121877089141308,Medium Risk,Send re-engagement email
+0.41194815039211397,Medium Risk,Send re-engagement email
+0.4116055387278844,Medium Risk,Send re-engagement email
+0.4115566564728712,Medium Risk,Send re-engagement email
+0.4114597785109918,Medium Risk,Send re-engagement email
+0.41022887761686205,Medium Risk,Send re-engagement email
+0.4102262421961098,Medium Risk,Send re-engagement email
+0.41019875507372505,Medium Risk,Send re-engagement email
+0.41018961396790304,Medium Risk,Send re-engagement email
+0.41001401947023086,Medium Risk,Send re-engagement email
+0.4096788262180381,Medium Risk,Send re-engagement email
+0.409385289895989,Medium Risk,Send re-engagement email
+0.4093677301537564,Medium Risk,Send re-engagement email
+0.40920617785986074,Medium Risk,Send re-engagement email
+0.40912543308025656,Medium Risk,Send re-engagement email
+0.40898483101804506,Medium Risk,Send re-engagement email
+0.4089376502508197,Medium Risk,Send re-engagement email
+0.40800727120654406,Medium Risk,Send re-engagement email
+0.40796263948881645,Medium Risk,Send re-engagement email
+0.4079351760341175,Medium Risk,Send re-engagement email
+0.4078765828846369,Medium Risk,Send re-engagement email
+0.4077867454358467,Medium Risk,Send re-engagement email
+0.40734321898653275,Medium Risk,Send re-engagement email
+0.4067193992294949,Medium Risk,Send re-engagement email
+0.40665534905742234,Medium Risk,Send re-engagement email
+0.4065388167586636,Medium Risk,Send re-engagement email
+0.4064758091763305,Medium Risk,Send re-engagement email
+0.4060123686685161,Medium Risk,Send re-engagement email
+0.40599818035907737,Medium Risk,Send re-engagement email
+0.40576300231620593,Medium Risk,Send re-engagement email
+0.4057467601017079,Medium Risk,Send re-engagement email
+0.40557839045859817,Medium Risk,Send re-engagement email
+0.4055445854742434,Medium Risk,Send re-engagement email
+0.40545073837772505,Medium Risk,Send re-engagement email
+0.405445793801656,Medium Risk,Send re-engagement email
+0.40457633678968913,Medium Risk,Send re-engagement email
+0.4039099274989619,Medium Risk,Send re-engagement email
+0.4038320739119357,Medium Risk,Send re-engagement email
+0.40367982470636227,Medium Risk,Send re-engagement email
+0.40351449578231935,Medium Risk,Send re-engagement email
+0.40318612971903,Medium Risk,Send re-engagement email
+0.4030920451666017,Medium Risk,Send re-engagement email
+0.4030686340969002,Medium Risk,Send re-engagement email
+0.40283765308618347,Medium Risk,Send re-engagement email
+0.40252762818729054,Medium Risk,Send re-engagement email
+0.40214638881443876,Medium Risk,Send re-engagement email
+0.40202907506274616,Medium Risk,Send re-engagement email
+0.4017773882236795,Medium Risk,Send re-engagement email
+0.40172027231614293,Medium Risk,Send re-engagement email
+0.4013514746608074,Medium Risk,Send re-engagement email
+0.40131747989256783,Medium Risk,Send re-engagement email
+0.4012093475298266,Medium Risk,Send re-engagement email
+0.4009879415350117,Medium Risk,Send re-engagement email
+0.4008641658118835,Medium Risk,Send re-engagement email
+0.4004260667981759,Medium Risk,Send re-engagement email
+0.40037055184619297,Medium Risk,Send re-engagement email
+0.40013505740811595,Medium Risk,Send re-engagement email
