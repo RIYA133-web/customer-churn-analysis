@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Playbook — Churn Analytics{% endblock %}
+{% block content %}
+<div class="container">
+  <div class="page-label">Action Framework</div>
+  <div class="page-title">The Churn Playbook</div>
+
+  <div class="grid-2">
+    {% for action, desc in descriptions.items() %}
+    <div class="playbook-card">
+      <h3>{{ action }}</h3>
+      <p>{{ desc }}</p>
+      {% if stats.action_counts and stats.action_counts.get(action) is not none %}
+      <span class="count">{{ stats.action_counts.get(action) }} customers currently matched</span>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

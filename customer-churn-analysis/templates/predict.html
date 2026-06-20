@@ -1,0 +1,181 @@
+{% extends "base.html" %}
+{% block title %}Predict — Churn Analytics{% endblock %}
+{% block content %}
+<div class="container">
+  <div class="page-label">Live Prediction</div>
+  <div class="page-title">Will This Customer Churn?</div>
+
+  <div class="form-card">
+    <form method="POST">
+      <div class="form-grid">
+
+        <div class="field">
+          <label>Gender</label>
+          <select name="gender">
+            <option>Female</option>
+            <option>Male</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Senior Citizen</label>
+          <select name="senior_citizen">
+            <option value="0">No</option>
+            <option value="1">Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Partner</label>
+          <select name="partner">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Dependents</label>
+          <select name="dependents">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Tenure (months)</label>
+          <input type="number" name="tenure" min="0" max="72" value="12" required/>
+        </div>
+
+        <div class="field">
+          <label>Monthly Charges ($)</label>
+          <input type="number" name="monthly_charges" min="0" step="0.01" value="70" required/>
+        </div>
+
+        <div class="field">
+          <label>Total Charges ($)</label>
+          <input type="number" name="total_charges" min="0" step="0.01" placeholder="auto if blank"/>
+        </div>
+
+        <div class="field">
+          <label>Contract</label>
+          <select name="contract">
+            <option>Month-to-month</option>
+            <option>One year</option>
+            <option>Two year</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Payment Method</label>
+          <select name="payment_method">
+            <option>Electronic check</option>
+            <option>Mailed check</option>
+            <option>Bank transfer (automatic)</option>
+            <option>Credit card (automatic)</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Paperless Billing</label>
+          <select name="paperless_billing">
+            <option>Yes</option>
+            <option>No</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Phone Service</label>
+          <select name="phone_service" id="phone_service">
+            <option>Yes</option>
+            <option>No</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Multiple Lines</label>
+          <select name="multiple_lines">
+            <option>No</option>
+            <option>Yes</option>
+            <option>No phone service</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Internet Service</label>
+          <select name="internet_service">
+            <option>DSL</option>
+            <option>Fiber optic</option>
+            <option>No</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Online Security</label>
+          <select name="online_security">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Online Backup</label>
+          <select name="online_backup">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Device Protection</label>
+          <select name="device_protection">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Tech Support</label>
+          <select name="tech_support">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Streaming TV</label>
+          <select name="streaming_tv">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>Streaming Movies</label>
+          <select name="streaming_movies">
+            <option>No</option>
+            <option>Yes</option>
+          </select>
+        </div>
+
+      </div>
+
+      <button type="submit" class="btn-submit">Predict Churn Risk</button>
+    </form>
+  </div>
+
+  {% if result %}
+  <div class="result-card {{ 'high' if result.risk_segment == 'High Risk' else ('medium' if result.risk_segment == 'Medium Risk' else 'low') }}">
+    <div class="page-label">Prediction Result</div>
+    <div class="result-prob">{{ result.probability }}%</div>
+    <div style="font-size:14px; color: var(--muted); margin-bottom:8px;">Churn Probability</div>
+    <span class="pill {{ 'red' if result.risk_segment == 'High Risk' else ('orange' if result.risk_segment == 'Medium Risk' else 'green') }}">{{ result.risk_segment }}</span>
+
+    <div class="result-action">
+      <div class="a-label">RECOMMENDED ACTION</div>
+      <div class="a-val">{{ result.action }}</div>
+      <div class="a-desc">{{ result.action_description }}</div>
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

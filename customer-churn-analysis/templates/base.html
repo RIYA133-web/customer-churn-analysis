@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>{% block title %}Churn Analytics{% endblock %}</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Syne:wght@400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+</head>
+<body>
+<nav class="navbar">
+  <div class="nav-inner">
+    <a href="/" class="nav-logo">Churn<span>Lab</span></a>
+    <div class="nav-links">
+      <a href="/" class="{{ 'active' if request.path == '/' else '' }}">Dashboard</a>
+      <a href="/predict" class="{{ 'active' if request.path == '/predict' else '' }}">Predict</a>
+      <a href="/playbook" class="{{ 'active' if request.path == '/playbook' else '' }}">Playbook</a>
+    </div>
+  </div>
+</nav>
+
+<main>
+  {% block content %}{% endblock %}
+</main>
+
+<footer>
+  <div class="f-left">Churn Analytics — Flask App</div>
+  <div class="f-right">SQL · PYTHON · FLASK · 2025</div>
+</footer>
+</body>
+</html>
