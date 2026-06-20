@@ -2,7 +2,7 @@
 
 A complete churn analytics pipeline — from raw customer data to a live prediction dashboard with automated retention recommendations.
 
-**Live Demo:** _coming soon (deployment in progress)_
+**Live Demo:** https://customer-churn-analysis-lwbx.onrender.com
 
 ---
 
